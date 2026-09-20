@@ -25,8 +25,14 @@ and promotional artwork rather than official logos or card art.
   `raw.githubusercontent.com`. No referrer is sent.
 - Analytics, advertising, and tracking: None.
 
-Publish `docs/PRIVACY.md` at a stable public HTTPS URL and enter that URL in the
-Privacy practices tab. Keep the dashboard answers consistent with the policy.
+Published privacy policy:
+`https://tannerface26-dev.github.io/uvs-ultra-custom-ui/PRIVACY.html`
+
+Published support page:
+`https://tannerface26-dev.github.io/uvs-ultra-custom-ui/SUPPORT.html`
+
+Enter those URLs in the Store Listing and Privacy practices tabs. Keep the
+dashboard answers consistent with the published policy.
 
 ## Required assets
 
@@ -58,12 +64,12 @@ the uploaded ZIP. Place `manifest.json` at the ZIP root.
 
 ## Final checks
 
-1. Add and declare the icon set.
-2. Host the privacy policy and support page on public HTTPS URLs.
-3. Test search, theme persistence, deck sorting, forum code, alternate art, and
-   transform backs in a clean Chrome profile.
-4. Confirm every remote image URL is HTTPS, commit-pinned, and allowlisted.
-5. Create the ZIP from the runtime allowlist above and load that exact package
-   unpacked for one final smoke test.
-6. Complete Store Listing, Privacy practices, Distribution, and test
-   instructions before submitting for review.
+1. [x] Add and declare the icon set.
+2. [x] Host the privacy policy and support page on public HTTPS URLs.
+3. [x] Test search, theme persistence, deck sorting, forum code, and the
+   bundled alternate-art runtime in an isolated browser profile.
+4. [x] Confirm every remote image URL is HTTPS, commit-pinned, and allowlisted.
+5. [x] Create the ZIP from the runtime allowlist and load that exact extracted
+   package for a final smoke test.
+6. [ ] Complete Store Listing, Privacy practices, Distribution, and optional
+   test instructions before submitting for review.

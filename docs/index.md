@@ -15,6 +15,6 @@ for `https://uvsultra.online/`.
 The original extension code, documentation, and +Ultra Online logo are
 available under the MIT License in the repository-root `LICENSE` file.
 
-The repository's `docs` directory is designed to be published as a GitHub
-Pages project site. After publication, use the resulting HTTPS privacy and
-support URLs in the Chrome Web Store Developer Dashboard.
+This documentation is published as the project's GitHub Pages site. Use the
+public privacy and support URLs above in the Chrome Web Store Developer
+Dashboard.
