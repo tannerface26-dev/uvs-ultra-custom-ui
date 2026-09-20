@@ -1,0 +1,255 @@
+#topbar {
+    position: sticky !important;
+    top: 0;
+    z-index: 1030;
+}
+
+html.uvsu-dark-search {
+    background: #161a1d;
+    color-scheme: dark;
+}
+
+html.uvsu-dark-search body {
+    background: #161a1d !important;
+    color: #e7eaed !important;
+}
+
+html.uvsu-dark-search #search.content-block {
+    background: #20262b !important;
+    border-color: #3b454d !important;
+    color: #e7eaed;
+}
+
+html.uvsu-dark-search #search .search-label,
+html.uvsu-dark-search #search .search-label-big,
+html.uvsu-dark-search #search .search-label-medium,
+html.uvsu-dark-search #search label,
+html.uvsu-dark-search #search legend {
+    color: #dce1e5;
+}
+
+html.uvsu-dark-search #search a,
+html.uvsu-dark-search #search a:hover,
+html.uvsu-dark-search #search a:focus {
+    color: #ffffff;
+}
+
+html.uvsu-dark-search #search input[type="text"],
+html.uvsu-dark-search #search input[type="number"],
+html.uvsu-dark-search #search select,
+html.uvsu-dark-search .ui-autocomplete {
+    background: #11161a !important;
+    border-color: #4b565f !important;
+    color: #f4f6f8 !important;
+}
+
+html.uvsu-dark-search #search input::placeholder {
+    color: #8f9aa3;
+}
+
+html.uvsu-dark-search #search input[type="button"],
+html.uvsu-dark-search #search input[type="submit"],
+html.uvsu-dark-search #search button {
+    background: #303940;
+    border-color: #53606a;
+    color: #f4f6f8;
+}
+
+html.uvsu-dark-search #search input[type="button"]:hover,
+html.uvsu-dark-search #search input[type="submit"]:hover,
+html.uvsu-dark-search #search button:hover {
+    background: #3b464e;
+}
+
+html.uvsu-dark-search #search_infos {
+    border-left-color: #4b565f !important;
+}
+
+#search.content-block {
+    max-width: calc(100vw - 10px);
+    width: 1355px;
+}
+
+#search_inputs {
+    display: grid;
+    grid-template-columns: 475px 440px 440px;
+    width: 100% !important;
+}
+
+#search_inputs > #search_general,
+#search_inputs > #search_infos,
+#search_inputs > #uvsu-search-filters {
+    box-sizing: border-box;
+    float: none;
+    width: auto;
+}
+
+#uvsu-search-filters {
+    border-left: 1px solid #dddddd;
+    padding: 5px 5px 5px 10px;
+}
+
+html.uvsu-dark-search #uvsu-search-filters {
+    border-left-color: #4b565f;
+}
+
+#uvsu-search-filters #search_more {
+    display: block !important;
+    width: auto;
+}
+
+#btn_search_more {
+    display: none !important;
+}
+
+@media (max-width: 1365px) {
+    #search.content-block {
+        width: 915px;
+    }
+
+    #search_inputs {
+        grid-template-columns: 475px 440px;
+    }
+
+    #uvsu-search-filters {
+        border-left: 0;
+        border-top: 1px solid #dddddd;
+        grid-column: 1 / -1;
+        margin-left: 475px;
+        padding-left: 10px;
+        width: 440px;
+    }
+
+    html.uvsu-dark-search #uvsu-search-filters {
+        border-top-color: #4b565f;
+    }
+}
+
+html.uvsu-dark-search #content,
+html.uvsu-dark-search #actions,
+html.uvsu-dark-search #footer {
+    color: #dce1e5;
+}
+
+html.uvsu-dark-search .content-block,
+html.uvsu-dark-search .panel,
+html.uvsu-dark-search .well,
+html.uvsu-dark-search .modal-content {
+    background-color: #20262b;
+    border-color: #3b454d;
+    color: #dce1e5;
+}
+
+html.uvsu-dark-search .table > thead > tr > th,
+html.uvsu-dark-search .table > tbody > tr > th,
+html.uvsu-dark-search .table > tfoot > tr > th,
+html.uvsu-dark-search .table > thead > tr > td,
+html.uvsu-dark-search .table > tbody > tr > td,
+html.uvsu-dark-search .table > tfoot > tr > td {
+    border-color: #3b454d;
+}
+
+html.uvsu-dark-search #content a,
+html.uvsu-dark-search #footer a {
+    color: #72b7e6;
+}
+
+html.uvsu-dark-search #content div.card.even,
+html.uvsu-dark-search #content div.card.odd {
+    background-color: #e3e5e7;
+    color: #202428;
+}
+
+html.uvsu-dark-search .listing_deck .card-list {
+    color: #000000;
+}
+
+html.uvsu-dark-search .deck-header,
+html.uvsu-dark-search .deck-header h2,
+html.uvsu-dark-search .deck-header .deck-actions,
+html.uvsu-dark-search .deck-header .deck-sort-by {
+    color: #000000;
+}
+
+html.uvsu-dark-search .deck-header .btn,
+html.uvsu-dark-search .deck-header .label,
+html.uvsu-dark-search .deck-header label,
+html.uvsu-dark-search .deck-header .deck-sort-by a,
+html.uvsu-dark-search .deck-sort .btn,
+html.uvsu-dark-search .deck-sort .label,
+html.uvsu-dark-search .deck-sort label {
+    color: #000000 !important;
+}
+
+html.uvsu-dark-search .ui-autocomplete .ui-menu-item,
+html.uvsu-dark-search .ui-autocomplete .ui-menu-item a {
+    color: #f4f6f8 !important;
+}
+
+html.uvsu-dark-search .ui-autocomplete .ui-state-focus,
+html.uvsu-dark-search .ui-autocomplete .ui-state-active {
+    background: #303940 !important;
+    border-color: #53606a !important;
+}
+
+#keyword_div .float_keyword label.uvsu-keyword-response,
+#keyword_div .float_keyword label.uvsu-keyword-enhance,
+#keyword_div .float_keyword label.uvsu-keyword-form,
+#keyword_div .float_keyword label.uvsu-keyword-blitz {
+    border-radius: 2px;
+    color: #161a1d;
+    font-weight: 700;
+    line-height: 1.25;
+    padding: 1px 4px;
+}
+
+#keyword_div {
+    display: grid;
+    gap: 6px 18px;
+    grid-template-columns: minmax(110px, 1fr) minmax(220px, 2fr);
+    margin: 4px 0 8px;
+}
+
+#keyword_div .uvsu-keyword-abilities,
+#keyword_div .uvsu-keyword-traits {
+    align-content: start;
+    display: grid;
+    gap: 3px 10px;
+}
+
+#keyword_div .uvsu-keyword-abilities {
+    grid-template-columns: minmax(0, 1fr);
+}
+
+#keyword_div .uvsu-keyword-traits {
+    grid-auto-flow: column;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: repeat(var(--uvsu-trait-rows), auto);
+}
+
+#keyword_div .float_keyword {
+    float: none;
+    min-width: 0;
+    width: auto;
+}
+
+html.uvsu-dark-search #keyword_div .float_keyword label.uvsu-keyword-trait {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+#keyword_div .float_keyword label.uvsu-keyword-response {
+    background-color: #00a651;
+}
+
+#keyword_div .float_keyword label.uvsu-keyword-enhance {
+    background-color: #ffde17;
+}
+
+#keyword_div .float_keyword label.uvsu-keyword-form {
+    background-color: #00aeef;
+}
+
+#keyword_div .float_keyword label.uvsu-keyword-blitz {
+    background-color: #ef6262;
+}

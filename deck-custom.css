@@ -1,0 +1,102 @@
+/* Forum code controls for deck.php only. */
+
+.listing_deck img.ci-micro_image {
+    width: 20px;
+    height: 20px;
+    object-fit: fill;
+}
+
+.uvsu-card-art-selector {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+    margin-top: 7px;
+    padding-top: 7px;
+    border-top: 1px solid #c8d1d3;
+}
+
+.uvsu-card-art-label {
+    flex: 0 0 100%;
+    margin-right: 2px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.uvsu-card-art-option {
+    min-height: 25px;
+    padding: 2px 7px;
+    border: 1px solid #aeb9bd;
+    border-radius: 3px;
+    background: #ffffff;
+    color: #263238;
+    font-size: 11px;
+    line-height: 19px;
+}
+
+.uvsu-card-art-option:hover,
+.uvsu-card-art-option:focus-visible {
+    border-color: #197985;
+    background: #eef7f9;
+}
+
+.uvsu-card-art-option.uvsu-selected {
+    border-color: #176a73;
+    background: #197985;
+    color: #ffffff;
+}
+
+.uvsu-card-art-alternate-list {
+    display: grid;
+    flex: 0 0 100%;
+    gap: 4px;
+    margin-top: 3px;
+    padding-left: 12px;
+}
+
+.uvsu-card-art-alternate-list[hidden] {
+    display: none;
+}
+
+.uvsu-card-art-alternate-option {
+    width: 100%;
+    text-align: left;
+}
+
+.uvsu-deck-page .uvsu-forum-code-panel {
+    width: 720px;
+    max-width: 100%;
+    margin: 12px 0 18px;
+    border: 1px solid #c8d1d3;
+    border-radius: 4px;
+    background: #ffffff;
+    box-sizing: border-box;
+    box-shadow: 0 2px 8px rgba(20, 32, 38, 0.12);
+}
+
+.uvsu-deck-page .uvsu-forum-code-panel[hidden] {
+    display: none !important;
+}
+
+.uvsu-deck-page .uvsu-forum-code-field {
+    display: block !important;
+    width: 100% !important;
+    min-height: 240px;
+    margin: 0;
+    padding: 12px;
+    resize: vertical;
+    border: 0;
+    border-radius: 0 0 4px 4px;
+    background: #f8fafb;
+    color: #172126;
+    box-sizing: border-box;
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 12px;
+    line-height: 1.5;
+    white-space: pre;
+}
+
+.uvsu-deck-page .uvsu-forum-code-field:focus {
+    outline: 2px solid #2d7f8c;
+    outline-offset: -2px;
+}

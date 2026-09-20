@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "+Ultra Online",
+  "version": "0.4.0",
+  "description": "Unofficial UVS Ultra companion with improved search, themes, deck tools, and validated alternate card art.",
+  "icons": {
+    "16": "assets/icons/icon-16.png",
+    "32": "assets/icons/icon-32.png",
+    "48": "assets/icons/icon-48.png",
+    "128": "assets/icons/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://uvsultra.online/*"
+      ],
+      "css": [
+        "ultra-custom.css"
+      ],
+      "js": [
+        "ultra-custom.js"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "https://uvsultra.online/deck.php*"
+      ],
+      "css": [
+        "deck-custom.css"
+      ],
+      "js": [
+        "remote-card-art.js",
+        "card-art.js",
+        "deck-card-art.js",
+        "deck-custom.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

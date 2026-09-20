@@ -1,0 +1,14 @@
+# Local browser profiles and capture intermediates
+tmp/
+
+# Reproducible release output
+release/
+
+# Editor-local workspace
+*.code-workspace
+
+# Superseded/unapproved source and capture drafts
+assets/plus-ultra-online-icon-source-v1.png
+assets/store-listing/baseline-without-extension-check.png
+assets/store-listing/promo-background-v1.png
+assets/store-listing/screenshot-search-ui-draft*.png
