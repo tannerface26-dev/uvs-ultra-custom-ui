@@ -41,6 +41,17 @@
         );
 
         if (selectedArt) {
+            const qualifier = selectedArt.forumQualifier?.match(
+                /^([a-z0-9_-]+)\/([a-z0-9_-]+)$/i
+            );
+
+            if (qualifier) {
+                return {
+                    setId: qualifier[1],
+                    cardNumber: qualifier[2]
+                };
+            }
+
             return {
                 setId: selectedArt.setId,
                 cardNumber: selectedArt.cardNumber

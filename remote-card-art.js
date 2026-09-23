@@ -10,6 +10,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/9242-283357",
+            "forumQualifier": "tcgplayer/9242-283357",
             "legacyQualifiers": [
                 "tcgplayer/9242-283357"
             ],
@@ -19,6 +20,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9242-283357-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9242-283357-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/9242-4100",
+            "forumQualifier": "repo/9242-4100",
+            "legacyQualifiers": [
+                "repo/9242-4100"
+            ],
+            "label": "Official Alternate Art (4100)",
+            "setId": "mha01",
+            "cardNumber": "091",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9242-4100-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9242-4100-ci-micro.jpg"
             }
         }
     ],
@@ -31,6 +46,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/9260-516239",
+            "forumQualifier": "tcgplayer/9260-516239",
             "legacyQualifiers": [
                 "tcgplayer/9260-516239"
             ],
@@ -40,6 +56,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9260-516239-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9260-516239-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/9260-4012",
+            "forumQualifier": "repo/9260-4012",
+            "legacyQualifiers": [
+                "repo/9260-4012"
+            ],
+            "label": "Official Alternate Art (4012)",
+            "setId": "mha01",
+            "cardNumber": "109",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9260-4012-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9260-4012-ci-micro.jpg"
             }
         }
     ],
@@ -52,6 +82,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/9278-515739",
+            "forumQualifier": "tcgplayer/9278-515739",
             "legacyQualifiers": [
                 "tcgplayer/9278-515739"
             ],
@@ -61,6 +92,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9278-515739-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9278-515739-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/9278-3970",
+            "forumQualifier": "repo/9278-3970",
+            "legacyQualifiers": [
+                "repo/9278-3970"
+            ],
+            "label": "Official Alternate Art (3970)",
+            "setId": "mha01",
+            "cardNumber": "127",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9278-3970-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9278-3970-ci-micro.jpg"
             }
         }
     ],
@@ -73,6 +118,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/9314-516237",
+            "forumQualifier": "tcgplayer/9314-516237",
             "legacyQualifiers": [
                 "tcgplayer/9314-516237"
             ],
@@ -82,6 +128,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9314-516237-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9314-516237-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/9314-3884",
+            "forumQualifier": "repo/9314-3884",
+            "legacyQualifiers": [
+                "repo/9314-3884"
+            ],
+            "label": "Official Alternate Art (3884)",
+            "setId": "mha01",
+            "cardNumber": "163",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9314-3884-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9314-3884-ci-micro.jpg"
             }
         }
     ],
@@ -94,6 +154,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/9956-4792",
+            "forumQualifier": "repo/9956-4792",
             "legacyQualifiers": [
                 "repo/9956-4792"
             ],
@@ -115,6 +176,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/9958-4788",
+            "forumQualifier": "repo/9958-4788",
             "legacyQualifiers": [
                 "repo/9958-4788"
             ],
@@ -124,6 +186,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9958-4788-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9958-4788-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/9958-3914",
+            "forumQualifier": "repo/9958-3914",
+            "legacyQualifiers": [
+                "repo/9958-3914"
+            ],
+            "label": "Official Alternate Art (3914)",
+            "setId": "mha05",
+            "cardNumber": "073",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9958-3914-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9958-3914-ci-micro.jpg"
             }
         }
     ],
@@ -136,6 +212,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/9959-4782",
+            "forumQualifier": "repo/9959-4782",
             "legacyQualifiers": [
                 "repo/9959-4782"
             ],
@@ -157,6 +234,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10396-4462",
+            "forumQualifier": "repo/10396-4462",
             "legacyQualifiers": [
                 "repo/10396-4462",
                 "tcgplayer/10396-534500"
@@ -179,6 +257,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10404-4464",
+            "forumQualifier": "repo/10404-4464",
             "legacyQualifiers": [
                 "repo/10404-4464",
                 "tcgplayer/10404-537640"
@@ -193,6 +272,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10404-539680",
+            "forumQualifier": "tcgplayer/10404-539680",
             "legacyQualifiers": [
                 "tcgplayer/10404-539680"
             ],
@@ -206,6 +286,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10404-539681",
+            "forumQualifier": "tcgplayer/10404-539681",
             "legacyQualifiers": [
                 "tcgplayer/10404-539681"
             ],
@@ -227,6 +308,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "ultra/10424-bl01-008",
+            "forumQualifier": "bl01/008",
             "legacyQualifiers": [
                 "ultra/10424-bl01-008"
             ],
@@ -248,6 +330,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10452-4402",
+            "forumQualifier": "repo/10452-4402",
             "legacyQualifiers": [
                 "repo/10452-4402",
                 "tcgplayer/10452-537634"
@@ -270,6 +353,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "ultra/10456-bl01-006",
+            "forumQualifier": "bl01/006",
             "legacyQualifiers": [
                 "ultra/10456-bl01-006"
             ],
@@ -291,6 +375,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10479-4404",
+            "forumQualifier": "repo/10479-4404",
             "legacyQualifiers": [
                 "repo/10479-4404"
             ],
@@ -304,6 +389,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10479-537635",
+            "forumQualifier": "tcgplayer/10479-537635",
             "legacyQualifiers": [
                 "tcgplayer/10479-537635"
             ],
@@ -325,6 +411,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10499-4406",
+            "forumQualifier": "repo/10499-4406",
             "legacyQualifiers": [
                 "repo/10499-4406",
                 "tcgplayer/10499-537637"
@@ -347,6 +434,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "ultra/10509-bl01-005",
+            "forumQualifier": "bl01/005",
             "legacyQualifiers": [
                 "ultra/10509-bl01-005"
             ],
@@ -368,6 +456,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10549-4408",
+            "forumQualifier": "repo/10549-4408",
             "legacyQualifiers": [
                 "repo/10549-4408",
                 "tcgplayer/10549-537638"
@@ -390,6 +479,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "ultra/10554-bl01-007",
+            "forumQualifier": "bl01/007",
             "legacyQualifiers": [
                 "ultra/10554-bl01-007"
             ],
@@ -411,6 +501,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10636-545027",
+            "forumQualifier": "tcgplayer/10636-545027",
             "legacyQualifiers": [
                 "tcgplayer/10636-545027"
             ],
@@ -420,6 +511,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10636-545027-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10636-545027-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10636-4136",
+            "forumQualifier": "repo/10636-4136",
+            "legacyQualifiers": [
+                "repo/10636-4136"
+            ],
+            "label": "Official Alternate Art (4136)",
+            "setId": "mha07",
+            "cardNumber": "003",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10636-4136-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10636-4136-ci-micro.jpg"
             }
         }
     ],
@@ -432,6 +537,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10643-543868",
+            "forumQualifier": "tcgplayer/10643-543868",
             "legacyQualifiers": [
                 "tcgplayer/10643-543868"
             ],
@@ -441,6 +547,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10643-543868-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10643-543868-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10643-4120",
+            "forumQualifier": "repo/10643-4120",
+            "legacyQualifiers": [
+                "repo/10643-4120"
+            ],
+            "label": "Official Alternate Art (4120)",
+            "setId": "mha07",
+            "cardNumber": "010",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10643-4120-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10643-4120-ci-micro.jpg"
             }
         }
     ],
@@ -453,6 +573,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10647-549344",
+            "forumQualifier": "tcgplayer/10647-549344",
             "legacyQualifiers": [
                 "tcgplayer/10647-549344"
             ],
@@ -462,6 +583,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10647-549344-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10647-549344-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10647-4110",
+            "forumQualifier": "repo/10647-4110",
+            "legacyQualifiers": [
+                "repo/10647-4110"
+            ],
+            "label": "Official Alternate Art (4110)",
+            "setId": "mha07",
+            "cardNumber": "014",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10647-4110-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10647-4110-ci-micro.jpg"
             }
         }
     ],
@@ -474,6 +609,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10654-545029",
+            "forumQualifier": "tcgplayer/10654-545029",
             "legacyQualifiers": [
                 "tcgplayer/10654-545029"
             ],
@@ -483,6 +619,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10654-545029-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10654-545029-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10654-4094",
+            "forumQualifier": "repo/10654-4094",
+            "legacyQualifiers": [
+                "repo/10654-4094"
+            ],
+            "label": "Official Alternate Art (4094)",
+            "setId": "mha07",
+            "cardNumber": "021",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10654-4094-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10654-4094-ci-micro.jpg"
             }
         }
     ],
@@ -495,6 +645,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10661-545025",
+            "forumQualifier": "tcgplayer/10661-545025",
             "legacyQualifiers": [
                 "tcgplayer/10661-545025"
             ],
@@ -504,6 +655,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10661-545025-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10661-545025-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10661-4078",
+            "forumQualifier": "repo/10661-4078",
+            "legacyQualifiers": [
+                "repo/10661-4078"
+            ],
+            "label": "Official Alternate Art (4078)",
+            "setId": "mha07",
+            "cardNumber": "028",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10661-4078-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10661-4078-ci-micro.jpg"
             }
         }
     ],
@@ -516,6 +681,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10664-545031",
+            "forumQualifier": "tcgplayer/10664-545031",
             "legacyQualifiers": [
                 "tcgplayer/10664-545031"
             ],
@@ -525,6 +691,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10664-545031-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10664-545031-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10664-4070",
+            "forumQualifier": "repo/10664-4070",
+            "legacyQualifiers": [
+                "repo/10664-4070"
+            ],
+            "label": "Official Alternate Art (4070)",
+            "setId": "mha07",
+            "cardNumber": "031",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10664-4070-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10664-4070-ci-micro.jpg"
             }
         }
     ],
@@ -537,6 +717,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10672-549345",
+            "forumQualifier": "tcgplayer/10672-549345",
             "legacyQualifiers": [
                 "tcgplayer/10672-549345"
             ],
@@ -546,6 +727,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10672-549345-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10672-549345-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10672-4050",
+            "forumQualifier": "repo/10672-4050",
+            "legacyQualifiers": [
+                "repo/10672-4050"
+            ],
+            "label": "Official Alternate Art (4050)",
+            "setId": "mha07",
+            "cardNumber": "039",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10672-4050-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10672-4050-ci-micro.jpg"
             }
         }
     ],
@@ -558,6 +753,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10681-543872",
+            "forumQualifier": "tcgplayer/10681-543872",
             "legacyQualifiers": [
                 "tcgplayer/10681-543872"
             ],
@@ -567,6 +763,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10681-543872-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10681-543872-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10681-4028",
+            "forumQualifier": "repo/10681-4028",
+            "legacyQualifiers": [
+                "repo/10681-4028"
+            ],
+            "label": "Official Alternate Art (4028)",
+            "setId": "mha07",
+            "cardNumber": "048",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10681-4028-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10681-4028-ci-micro.jpg"
             }
         }
     ],
@@ -579,6 +789,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10689-549346",
+            "forumQualifier": "tcgplayer/10689-549346",
             "legacyQualifiers": [
                 "tcgplayer/10689-549346"
             ],
@@ -588,6 +799,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10689-549346-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10689-549346-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10689-4008",
+            "forumQualifier": "repo/10689-4008",
+            "legacyQualifiers": [
+                "repo/10689-4008"
+            ],
+            "label": "Official Alternate Art (4008)",
+            "setId": "mha07",
+            "cardNumber": "056",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10689-4008-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10689-4008-ci-micro.jpg"
             }
         }
     ],
@@ -600,6 +825,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10698-543876",
+            "forumQualifier": "tcgplayer/10698-543876",
             "legacyQualifiers": [
                 "tcgplayer/10698-543876"
             ],
@@ -609,6 +835,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10698-543876-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10698-543876-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10698-3932",
+            "forumQualifier": "repo/10698-3932",
+            "legacyQualifiers": [
+                "repo/10698-3932"
+            ],
+            "label": "Official Alternate Art (3932)",
+            "setId": "mha07",
+            "cardNumber": "088",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10698-3932-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10698-3932-ci-micro.jpg"
             }
         }
     ],
@@ -621,6 +861,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10703-549348",
+            "forumQualifier": "tcgplayer/10703-549348",
             "legacyQualifiers": [
                 "tcgplayer/10703-549348"
             ],
@@ -630,6 +871,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10703-549348-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10703-549348-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10703-3982",
+            "forumQualifier": "repo/10703-3982",
+            "legacyQualifiers": [
+                "repo/10703-3982"
+            ],
+            "label": "Official Alternate Art (3982)",
+            "setId": "mha07",
+            "cardNumber": "067",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10703-3982-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10703-3982-ci-micro.jpg"
             }
         }
     ],
@@ -642,6 +897,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10713-549350",
+            "forumQualifier": "tcgplayer/10713-549350",
             "legacyQualifiers": [
                 "tcgplayer/10713-549350"
             ],
@@ -651,6 +907,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10713-549350-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10713-549350-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10713-3960",
+            "forumQualifier": "repo/10713-3960",
+            "legacyQualifiers": [
+                "repo/10713-3960"
+            ],
+            "label": "Official Alternate Art (3960)",
+            "setId": "mha07",
+            "cardNumber": "077",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10713-3960-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10713-3960-ci-micro.jpg"
             }
         }
     ],
@@ -663,6 +933,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10718-549351",
+            "forumQualifier": "tcgplayer/10718-549351",
             "legacyQualifiers": [
                 "tcgplayer/10718-549351"
             ],
@@ -672,6 +943,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10718-549351-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10718-549351-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10718-3948",
+            "forumQualifier": "repo/10718-3948",
+            "legacyQualifiers": [
+                "repo/10718-3948"
+            ],
+            "label": "Official Alternate Art (3948)",
+            "setId": "mha07",
+            "cardNumber": "082",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10718-3948-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10718-3948-ci-micro.jpg"
             }
         }
     ],
@@ -684,6 +969,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10720-549352",
+            "forumQualifier": "tcgplayer/10720-549352",
             "legacyQualifiers": [
                 "tcgplayer/10720-549352"
             ],
@@ -693,6 +979,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10720-549352-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10720-549352-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10720-3942",
+            "forumQualifier": "repo/10720-3942",
+            "legacyQualifiers": [
+                "repo/10720-3942"
+            ],
+            "label": "Official Alternate Art (3942)",
+            "setId": "mha07",
+            "cardNumber": "084",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10720-3942-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10720-3942-ci-micro.jpg"
             }
         }
     ],
@@ -705,6 +1005,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10729-549355",
+            "forumQualifier": "tcgplayer/10729-549355",
             "legacyQualifiers": [
                 "tcgplayer/10729-549355"
             ],
@@ -714,6 +1015,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10729-549355-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10729-549355-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10729-3920",
+            "forumQualifier": "repo/10729-3920",
+            "legacyQualifiers": [
+                "repo/10729-3920"
+            ],
+            "label": "Official Alternate Art (3920)",
+            "setId": "mha07",
+            "cardNumber": "092",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10729-3920-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10729-3920-ci-micro.jpg"
             }
         }
     ],
@@ -726,6 +1041,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10732-549357",
+            "forumQualifier": "tcgplayer/10732-549357",
             "legacyQualifiers": [
                 "tcgplayer/10732-549357"
             ],
@@ -735,6 +1051,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10732-549357-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10732-549357-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10732-3910",
+            "forumQualifier": "repo/10732-3910",
+            "legacyQualifiers": [
+                "repo/10732-3910"
+            ],
+            "label": "Official Alternate Art (3910)",
+            "setId": "mha07",
+            "cardNumber": "095",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10732-3910-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10732-3910-ci-micro.jpg"
             }
         }
     ],
@@ -747,6 +1077,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10735-549358",
+            "forumQualifier": "tcgplayer/10735-549358",
             "legacyQualifiers": [
                 "tcgplayer/10735-549358"
             ],
@@ -756,6 +1087,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10735-549358-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10735-549358-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10735-3904",
+            "forumQualifier": "repo/10735-3904",
+            "legacyQualifiers": [
+                "repo/10735-3904"
+            ],
+            "label": "Official Alternate Art (3904)",
+            "setId": "mha07",
+            "cardNumber": "098",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10735-3904-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10735-3904-ci-micro.jpg"
             }
         }
     ],
@@ -768,6 +1113,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10748-549361",
+            "forumQualifier": "tcgplayer/10748-549361",
             "legacyQualifiers": [
                 "tcgplayer/10748-549361"
             ],
@@ -777,6 +1123,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10748-549361-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10748-549361-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10748-3880",
+            "forumQualifier": "repo/10748-3880",
+            "legacyQualifiers": [
+                "repo/10748-3880"
+            ],
+            "label": "Official Alternate Art (3880)",
+            "setId": "mha07",
+            "cardNumber": "107",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10748-3880-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10748-3880-ci-micro.jpg"
             }
         }
     ],
@@ -789,6 +1149,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10751-549362",
+            "forumQualifier": "tcgplayer/10751-549362",
             "legacyQualifiers": [
                 "tcgplayer/10751-549362"
             ],
@@ -798,6 +1159,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10751-549362-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10751-549362-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10751-3872",
+            "forumQualifier": "repo/10751-3872",
+            "legacyQualifiers": [
+                "repo/10751-3872"
+            ],
+            "label": "Official Alternate Art (3872)",
+            "setId": "mha07",
+            "cardNumber": "110",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10751-3872-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10751-3872-ci-micro.jpg"
             }
         }
     ],
@@ -810,6 +1185,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10753-549363",
+            "forumQualifier": "tcgplayer/10753-549363",
             "legacyQualifiers": [
                 "tcgplayer/10753-549363"
             ],
@@ -819,6 +1195,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10753-549363-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10753-549363-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10753-3866",
+            "forumQualifier": "repo/10753-3866",
+            "legacyQualifiers": [
+                "repo/10753-3866"
+            ],
+            "label": "Official Alternate Art (3866)",
+            "setId": "mha07",
+            "cardNumber": "112",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10753-3866-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10753-3866-ci-micro.jpg"
             }
         }
     ],
@@ -831,6 +1221,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10755-549364",
+            "forumQualifier": "tcgplayer/10755-549364",
             "legacyQualifiers": [
                 "tcgplayer/10755-549364"
             ],
@@ -840,6 +1231,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10755-549364-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10755-549364-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10755-3860",
+            "forumQualifier": "repo/10755-3860",
+            "legacyQualifiers": [
+                "repo/10755-3860"
+            ],
+            "label": "Official Alternate Art (3860)",
+            "setId": "mha07",
+            "cardNumber": "114",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10755-3860-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10755-3860-ci-micro.jpg"
             }
         }
     ],
@@ -852,6 +1257,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10757-549365",
+            "forumQualifier": "tcgplayer/10757-549365",
             "legacyQualifiers": [
                 "tcgplayer/10757-549365"
             ],
@@ -861,6 +1267,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10757-549365-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10757-549365-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10757-3854",
+            "forumQualifier": "repo/10757-3854",
+            "legacyQualifiers": [
+                "repo/10757-3854"
+            ],
+            "label": "Official Alternate Art (3854)",
+            "setId": "mha07",
+            "cardNumber": "116",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10757-3854-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10757-3854-ci-micro.jpg"
             }
         }
     ],
@@ -873,6 +1293,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10761-549366",
+            "forumQualifier": "tcgplayer/10761-549366",
             "legacyQualifiers": [
                 "tcgplayer/10761-549366"
             ],
@@ -882,6 +1303,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10761-549366-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10761-549366-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10761-3844",
+            "forumQualifier": "repo/10761-3844",
+            "legacyQualifiers": [
+                "repo/10761-3844"
+            ],
+            "label": "Official Alternate Art (3844)",
+            "setId": "mha07",
+            "cardNumber": "120",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10761-3844-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10761-3844-ci-micro.jpg"
             }
         }
     ],
@@ -894,6 +1329,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10762-549367",
+            "forumQualifier": "tcgplayer/10762-549367",
             "legacyQualifiers": [
                 "tcgplayer/10762-549367"
             ],
@@ -903,6 +1339,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10762-549367-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10762-549367-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10762-3840",
+            "forumQualifier": "repo/10762-3840",
+            "legacyQualifiers": [
+                "repo/10762-3840"
+            ],
+            "label": "Official Alternate Art (3840)",
+            "setId": "mha07",
+            "cardNumber": "121",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10762-3840-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10762-3840-ci-micro.jpg"
             }
         }
     ],
@@ -915,6 +1365,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10763-549369",
+            "forumQualifier": "tcgplayer/10763-549369",
             "legacyQualifiers": [
                 "tcgplayer/10763-549369"
             ],
@@ -924,6 +1375,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10763-549369-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10763-549369-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10763-3802",
+            "forumQualifier": "repo/10763-3802",
+            "legacyQualifiers": [
+                "repo/10763-3802"
+            ],
+            "label": "Official Alternate Art (3802)",
+            "setId": "mha07",
+            "cardNumber": "138",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10763-3802-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10763-3802-ci-micro.jpg"
             }
         }
     ],
@@ -936,6 +1401,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10765-549373",
+            "forumQualifier": "tcgplayer/10765-549373",
             "legacyQualifiers": [
                 "tcgplayer/10765-549373"
             ],
@@ -945,6 +1411,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10765-549373-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10765-549373-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10765-3728",
+            "forumQualifier": "repo/10765-3728",
+            "legacyQualifiers": [
+                "repo/10765-3728"
+            ],
+            "label": "Official Alternate Art (3728)",
+            "setId": "mha07",
+            "cardNumber": "172",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10765-3728-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10765-3728-ci-micro.jpg"
             }
         }
     ],
@@ -957,6 +1437,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10799-549371",
+            "forumQualifier": "tcgplayer/10799-549371",
             "legacyQualifiers": [
                 "tcgplayer/10799-549371"
             ],
@@ -966,6 +1447,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10799-549371-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10799-549371-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10799-3790",
+            "forumQualifier": "repo/10799-3790",
+            "legacyQualifiers": [
+                "repo/10799-3790"
+            ],
+            "label": "Official Alternate Art (3790)",
+            "setId": "mha07",
+            "cardNumber": "142",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10799-3790-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10799-3790-ci-micro.jpg"
             }
         }
     ],
@@ -978,6 +1473,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10806-549372",
+            "forumQualifier": "tcgplayer/10806-549372",
             "legacyQualifiers": [
                 "tcgplayer/10806-549372"
             ],
@@ -987,6 +1483,20 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10806-549372-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10806-549372-ci-micro.jpg"
+            }
+        },
+        {
+            "artworkId": "repo/10806-3774",
+            "forumQualifier": "repo/10806-3774",
+            "legacyQualifiers": [
+                "repo/10806-3774"
+            ],
+            "label": "Official Alternate Art (3774)",
+            "setId": "mha07",
+            "cardNumber": "149",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10806-3774-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10806-3774-ci-micro.jpg"
             }
         }
     ],
@@ -999,6 +1509,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10954-2733",
+            "forumQualifier": "repo/10954-2733",
             "legacyQualifiers": [
                 "repo/10954-2733",
                 "tcgplayer/10954-563369"
@@ -1013,6 +1524,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10954-563361",
+            "forumQualifier": "tcgplayer/10954-563361",
             "legacyQualifiers": [
                 "tcgplayer/10954-563361"
             ],
@@ -1034,6 +1546,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10956-2737",
+            "forumQualifier": "repo/10956-2737",
             "legacyQualifiers": [
                 "repo/10956-2737"
             ],
@@ -1055,6 +1568,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10957-3481",
+            "forumQualifier": "repo/10957-3481",
             "legacyQualifiers": [
                 "repo/10957-3481",
                 "tcgplayer/10957-563380"
@@ -1069,6 +1583,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10957-563364",
+            "forumQualifier": "tcgplayer/10957-563364",
             "legacyQualifiers": [
                 "tcgplayer/10957-563364"
             ],
@@ -1090,6 +1605,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10958-3475",
+            "forumQualifier": "repo/10958-3475",
             "legacyQualifiers": [
                 "repo/10958-3475",
                 "tcgplayer/10958-563383"
@@ -1104,6 +1620,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10958-563365",
+            "forumQualifier": "tcgplayer/10958-563365",
             "legacyQualifiers": [
                 "tcgplayer/10958-563365"
             ],
@@ -1125,6 +1642,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10959-3420",
+            "forumQualifier": "repo/10959-3420",
             "legacyQualifiers": [
                 "repo/10959-3420",
                 "tcgplayer/10959-563411"
@@ -1147,6 +1665,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10960-3405",
+            "forumQualifier": "repo/10960-3405",
             "legacyQualifiers": [
                 "repo/10960-3405"
             ],
@@ -1160,6 +1679,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10960-563420",
+            "forumQualifier": "tcgplayer/10960-563420",
             "legacyQualifiers": [
                 "tcgplayer/10960-563420"
             ],
@@ -1181,6 +1701,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10963-2982",
+            "forumQualifier": "repo/10963-2982",
             "legacyQualifiers": [
                 "repo/10963-2982"
             ],
@@ -1194,6 +1715,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10963-563624",
+            "forumQualifier": "tcgplayer/10963-563624",
             "legacyQualifiers": [
                 "tcgplayer/10963-563624"
             ],
@@ -1220,6 +1742,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10964-2727",
+            "forumQualifier": "repo/10964-2727",
             "legacyQualifiers": [
                 "repo/10964-2727"
             ],
@@ -1248,6 +1771,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10966-2795",
+            "forumQualifier": "repo/10966-2795",
             "legacyQualifiers": [
                 "repo/10966-2795"
             ],
@@ -1269,6 +1793,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10967-2791",
+            "forumQualifier": "repo/10967-2791",
             "legacyQualifiers": [
                 "repo/10967-2791"
             ],
@@ -1290,6 +1815,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10968-2783",
+            "forumQualifier": "repo/10968-2783",
             "legacyQualifiers": [
                 "repo/10968-2783"
             ],
@@ -1311,6 +1837,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10980-3006",
+            "forumQualifier": "repo/10980-3006",
             "legacyQualifiers": [
                 "repo/10980-3006",
                 "tcgplayer/10980-563612"
@@ -1333,6 +1860,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10981-2968",
+            "forumQualifier": "repo/10981-2968",
             "legacyQualifiers": [
                 "repo/10981-2968",
                 "tcgplayer/10981-562514"
@@ -1355,6 +1883,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10983-2946",
+            "forumQualifier": "repo/10983-2946",
             "legacyQualifiers": [
                 "repo/10983-2946"
             ],
@@ -1368,6 +1897,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10983-563639",
+            "forumQualifier": "tcgplayer/10983-563639",
             "legacyQualifiers": [
                 "tcgplayer/10983-563639"
             ],
@@ -1389,6 +1919,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10993-3507",
+            "forumQualifier": "repo/10993-3507",
             "legacyQualifiers": [
                 "repo/10993-3507",
                 "tcgplayer/10993-563372"
@@ -1403,6 +1934,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10993-563362",
+            "forumQualifier": "tcgplayer/10993-563362",
             "legacyQualifiers": [
                 "tcgplayer/10993-563362"
             ],
@@ -1424,6 +1956,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/10999-3331",
+            "forumQualifier": "repo/10999-3331",
             "legacyQualifiers": [
                 "repo/10999-3331"
             ],
@@ -1437,6 +1970,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/10999-562486",
+            "forumQualifier": "tcgplayer/10999-562486",
             "legacyQualifiers": [
                 "tcgplayer/10999-562486"
             ],
@@ -1458,6 +1992,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11001-3275",
+            "forumQualifier": "repo/11001-3275",
             "legacyQualifiers": [
                 "repo/11001-3275"
             ],
@@ -1471,6 +2006,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11001-562511",
+            "forumQualifier": "tcgplayer/11001-562511",
             "legacyQualifiers": [
                 "tcgplayer/11001-562511"
             ],
@@ -1492,6 +2028,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11007-3451",
+            "forumQualifier": "repo/11007-3451",
             "legacyQualifiers": [
                 "repo/11007-3451"
             ],
@@ -1505,6 +2042,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11007-562378",
+            "forumQualifier": "tcgplayer/11007-562378",
             "legacyQualifiers": [
                 "tcgplayer/11007-562378"
             ],
@@ -1526,6 +2064,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11008-3381",
+            "forumQualifier": "repo/11008-3381",
             "legacyQualifiers": [
                 "repo/11008-3381"
             ],
@@ -1539,6 +2078,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11008-562472",
+            "forumQualifier": "tcgplayer/11008-562472",
             "legacyQualifiers": [
                 "tcgplayer/11008-562472"
             ],
@@ -1560,6 +2100,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11009-3245",
+            "forumQualifier": "repo/11009-3245",
             "legacyQualifiers": [
                 "repo/11009-3245"
             ],
@@ -1573,6 +2114,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11009-562474",
+            "forumQualifier": "tcgplayer/11009-562474",
             "legacyQualifiers": [
                 "tcgplayer/11009-562474"
             ],
@@ -1594,6 +2136,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11010-3188",
+            "forumQualifier": "repo/11010-3188",
             "legacyQualifiers": [
                 "repo/11010-3188"
             ],
@@ -1607,6 +2150,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11010-562476",
+            "forumQualifier": "tcgplayer/11010-562476",
             "legacyQualifiers": [
                 "tcgplayer/11010-562476"
             ],
@@ -1628,6 +2172,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11011-3167",
+            "forumQualifier": "repo/11011-3167",
             "legacyQualifiers": [
                 "repo/11011-3167"
             ],
@@ -1641,6 +2186,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11011-562478",
+            "forumQualifier": "tcgplayer/11011-562478",
             "legacyQualifiers": [
                 "tcgplayer/11011-562478"
             ],
@@ -1662,6 +2208,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11012-3084",
+            "forumQualifier": "repo/11012-3084",
             "legacyQualifiers": [
                 "repo/11012-3084"
             ],
@@ -1675,6 +2222,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11012-562480",
+            "forumQualifier": "tcgplayer/11012-562480",
             "legacyQualifiers": [
                 "tcgplayer/11012-562480"
             ],
@@ -1696,6 +2244,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11013-3070",
+            "forumQualifier": "repo/11013-3070",
             "legacyQualifiers": [
                 "repo/11013-3070"
             ],
@@ -1709,6 +2258,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11013-562484",
+            "forumQualifier": "tcgplayer/11013-562484",
             "legacyQualifiers": [
                 "tcgplayer/11013-562484"
             ],
@@ -1730,6 +2280,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11015-3457",
+            "forumQualifier": "repo/11015-3457",
             "legacyQualifiers": [
                 "repo/11015-3457"
             ],
@@ -1743,6 +2294,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11015-563390",
+            "forumQualifier": "tcgplayer/11015-563390",
             "legacyQualifiers": [
                 "tcgplayer/11015-563390"
             ],
@@ -1764,6 +2316,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11025-3435",
+            "forumQualifier": "repo/11025-3435",
             "legacyQualifiers": [
                 "repo/11025-3435",
                 "tcgplayer/11025-563403"
@@ -1786,6 +2339,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11053-3361",
+            "forumQualifier": "repo/11053-3361",
             "legacyQualifiers": [
                 "repo/11053-3361",
                 "tcgplayer/11053-563442"
@@ -1808,6 +2362,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11062-3339",
+            "forumQualifier": "repo/11062-3339",
             "legacyQualifiers": [
                 "repo/11062-3339"
             ],
@@ -1821,6 +2376,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11062-563453",
+            "forumQualifier": "tcgplayer/11062-563453",
             "legacyQualifiers": [
                 "tcgplayer/11062-563453"
             ],
@@ -1842,6 +2398,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11069-3319",
+            "forumQualifier": "repo/11069-3319",
             "legacyQualifiers": [
                 "repo/11069-3319"
             ],
@@ -1855,6 +2412,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11069-563462",
+            "forumQualifier": "tcgplayer/11069-563462",
             "legacyQualifiers": [
                 "tcgplayer/11069-563462"
             ],
@@ -1876,6 +2434,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11084-3281",
+            "forumQualifier": "repo/11084-3281",
             "legacyQualifiers": [
                 "repo/11084-3281",
                 "tcgplayer/11084-563480"
@@ -1890,6 +2449,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11084-575187",
+            "forumQualifier": "tcgplayer/11084-575187",
             "legacyQualifiers": [
                 "tcgplayer/11084-575187"
             ],
@@ -1911,6 +2471,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11087-3269",
+            "forumQualifier": "repo/11087-3269",
             "legacyQualifiers": [
                 "repo/11087-3269"
             ],
@@ -1924,6 +2485,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11087-563484",
+            "forumQualifier": "tcgplayer/11087-563484",
             "legacyQualifiers": [
                 "tcgplayer/11087-563484"
             ],
@@ -1945,6 +2507,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11094-3253",
+            "forumQualifier": "repo/11094-3253",
             "legacyQualifiers": [
                 "repo/11094-3253"
             ],
@@ -1958,6 +2521,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11094-563492",
+            "forumQualifier": "tcgplayer/11094-563492",
             "legacyQualifiers": [
                 "tcgplayer/11094-563492"
             ],
@@ -1979,6 +2543,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11113-3208",
+            "forumQualifier": "repo/11113-3208",
             "legacyQualifiers": [
                 "repo/11113-3208",
                 "tcgplayer/11113-563515"
@@ -2001,6 +2566,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11126-3171",
+            "forumQualifier": "repo/11126-3171",
             "legacyQualifiers": [
                 "repo/11126-3171",
                 "tcgplayer/11126-563533"
@@ -2023,6 +2589,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11133-3154",
+            "forumQualifier": "repo/11133-3154",
             "legacyQualifiers": [
                 "repo/11133-3154"
             ],
@@ -2036,6 +2603,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11133-563542",
+            "forumQualifier": "tcgplayer/11133-563542",
             "legacyQualifiers": [
                 "tcgplayer/11133-563542"
             ],
@@ -2057,6 +2625,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11144-3125",
+            "forumQualifier": "repo/11144-3125",
             "legacyQualifiers": [
                 "repo/11144-3125",
                 "tcgplayer/11144-563557"
@@ -2079,6 +2648,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11160-3066",
+            "forumQualifier": "repo/11160-3066",
             "legacyQualifiers": [
                 "repo/11160-3066"
             ],
@@ -2092,6 +2662,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11160-563583",
+            "forumQualifier": "tcgplayer/11160-563583",
             "legacyQualifiers": [
                 "tcgplayer/11160-563583"
             ],
@@ -2113,6 +2684,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11174-3024",
+            "forumQualifier": "repo/11174-3024",
             "legacyQualifiers": [
                 "repo/11174-3024",
                 "tcgplayer/11174-563603"
@@ -2135,6 +2707,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11182-2994",
+            "forumQualifier": "repo/11182-2994",
             "legacyQualifiers": [
                 "repo/11182-2994",
                 "tcgplayer/11182-563618"
@@ -2157,6 +2730,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11208-2876",
+            "forumQualifier": "repo/11208-2876",
             "legacyQualifiers": [
                 "repo/11208-2876",
                 "tcgplayer/11208-563665"
@@ -2179,6 +2753,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11211-2787",
+            "forumQualifier": "repo/11211-2787",
             "legacyQualifiers": [
                 "repo/11211-2787"
             ],
@@ -2200,6 +2775,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11215-2769",
+            "forumQualifier": "repo/11215-2769",
             "legacyQualifiers": [
                 "repo/11215-2769"
             ],
@@ -2221,6 +2797,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11216-2763",
+            "forumQualifier": "repo/11216-2763",
             "legacyQualifiers": [
                 "repo/11216-2763"
             ],
@@ -2242,6 +2819,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11218-2745",
+            "forumQualifier": "repo/11218-2745",
             "legacyQualifiers": [
                 "repo/11218-2745"
             ],
@@ -2268,6 +2846,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11226-2709",
+            "forumQualifier": "repo/11226-2709",
             "legacyQualifiers": [
                 "repo/11226-2709"
             ],
@@ -2296,6 +2875,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11228-2701",
+            "forumQualifier": "repo/11228-2701",
             "legacyQualifiers": [
                 "repo/11228-2701"
             ],
@@ -2317,6 +2897,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11229-2697",
+            "forumQualifier": "repo/11229-2697",
             "legacyQualifiers": [
                 "repo/11229-2697"
             ],
@@ -2338,6 +2919,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11230-2693",
+            "forumQualifier": "repo/11230-2693",
             "legacyQualifiers": [
                 "repo/11230-2693"
             ],
@@ -2359,6 +2941,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11231-2689",
+            "forumQualifier": "repo/11231-2689",
             "legacyQualifiers": [
                 "repo/11231-2689"
             ],
@@ -2380,6 +2963,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11232-2685",
+            "forumQualifier": "repo/11232-2685",
             "legacyQualifiers": [
                 "repo/11232-2685"
             ],
@@ -2401,6 +2985,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11234-2677",
+            "forumQualifier": "repo/11234-2677",
             "legacyQualifiers": [
                 "repo/11234-2677"
             ],
@@ -2422,6 +3007,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11235-2673",
+            "forumQualifier": "repo/11235-2673",
             "legacyQualifiers": [
                 "repo/11235-2673"
             ],
@@ -2443,6 +3029,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11236-2669",
+            "forumQualifier": "repo/11236-2669",
             "legacyQualifiers": [
                 "repo/11236-2669"
             ],
@@ -2464,6 +3051,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11237-2665",
+            "forumQualifier": "repo/11237-2665",
             "legacyQualifiers": [
                 "repo/11237-2665"
             ],
@@ -2485,6 +3073,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11238-2661",
+            "forumQualifier": "repo/11238-2661",
             "legacyQualifiers": [
                 "repo/11238-2661"
             ],
@@ -2506,6 +3095,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11239-2657",
+            "forumQualifier": "repo/11239-2657",
             "legacyQualifiers": [
                 "repo/11239-2657"
             ],
@@ -2527,6 +3117,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11240-2653",
+            "forumQualifier": "repo/11240-2653",
             "legacyQualifiers": [
                 "repo/11240-2653"
             ],
@@ -2548,6 +3139,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11241-2649",
+            "forumQualifier": "repo/11241-2649",
             "legacyQualifiers": [
                 "repo/11241-2649"
             ],
@@ -2569,6 +3161,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11242-2645",
+            "forumQualifier": "repo/11242-2645",
             "legacyQualifiers": [
                 "repo/11242-2645"
             ],
@@ -2590,6 +3183,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11243-2641",
+            "forumQualifier": "repo/11243-2641",
             "legacyQualifiers": [
                 "repo/11243-2641"
             ],
@@ -2611,6 +3205,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11244-2637",
+            "forumQualifier": "repo/11244-2637",
             "legacyQualifiers": [
                 "repo/11244-2637"
             ],
@@ -2632,6 +3227,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11245-2633",
+            "forumQualifier": "repo/11245-2633",
             "legacyQualifiers": [
                 "repo/11245-2633"
             ],
@@ -2653,6 +3249,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11246-2629",
+            "forumQualifier": "repo/11246-2629",
             "legacyQualifiers": [
                 "repo/11246-2629"
             ],
@@ -2674,6 +3271,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11271-2253",
+            "forumQualifier": "repo/11271-2253",
             "legacyQualifiers": [
                 "repo/11271-2253"
             ],
@@ -2695,6 +3293,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11272-2237",
+            "forumQualifier": "repo/11272-2237",
             "legacyQualifiers": [
                 "repo/11272-2237"
             ],
@@ -2716,6 +3315,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11273-2223",
+            "forumQualifier": "repo/11273-2223",
             "legacyQualifiers": [
                 "repo/11273-2223"
             ],
@@ -2737,6 +3337,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11274-2207",
+            "forumQualifier": "repo/11274-2207",
             "legacyQualifiers": [
                 "repo/11274-2207"
             ],
@@ -2758,6 +3359,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11488-2251",
+            "forumQualifier": "repo/11488-2251",
             "legacyQualifiers": [
                 "repo/11488-2251"
             ],
@@ -2779,6 +3381,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11489-2247",
+            "forumQualifier": "repo/11489-2247",
             "legacyQualifiers": [
                 "repo/11489-2247"
             ],
@@ -2800,6 +3403,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11490-2243",
+            "forumQualifier": "repo/11490-2243",
             "legacyQualifiers": [
                 "repo/11490-2243"
             ],
@@ -2821,6 +3425,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11491-2241",
+            "forumQualifier": "repo/11491-2241",
             "legacyQualifiers": [
                 "repo/11491-2241"
             ],
@@ -2842,6 +3447,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11494-2235",
+            "forumQualifier": "repo/11494-2235",
             "legacyQualifiers": [
                 "repo/11494-2235"
             ],
@@ -2863,6 +3469,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11495-2231",
+            "forumQualifier": "repo/11495-2231",
             "legacyQualifiers": [
                 "repo/11495-2231"
             ],
@@ -2884,6 +3491,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11496-2225",
+            "forumQualifier": "repo/11496-2225",
             "legacyQualifiers": [
                 "repo/11496-2225"
             ],
@@ -2905,6 +3513,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11499-2205",
+            "forumQualifier": "repo/11499-2205",
             "legacyQualifiers": [
                 "repo/11499-2205"
             ],
@@ -2926,6 +3535,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11500-2221",
+            "forumQualifier": "repo/11500-2221",
             "legacyQualifiers": [
                 "repo/11500-2221"
             ],
@@ -2947,6 +3557,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11501-2219",
+            "forumQualifier": "repo/11501-2219",
             "legacyQualifiers": [
                 "repo/11501-2219"
             ],
@@ -2968,6 +3579,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11502-2217",
+            "forumQualifier": "repo/11502-2217",
             "legacyQualifiers": [
                 "repo/11502-2217"
             ],
@@ -2989,6 +3601,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11503-2211",
+            "forumQualifier": "repo/11503-2211",
             "legacyQualifiers": [
                 "repo/11503-2211"
             ],
@@ -3010,6 +3623,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11506-2203",
+            "forumQualifier": "repo/11506-2203",
             "legacyQualifiers": [
                 "repo/11506-2203"
             ],
@@ -3031,6 +3645,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11507-2201",
+            "forumQualifier": "repo/11507-2201",
             "legacyQualifiers": [
                 "repo/11507-2201"
             ],
@@ -3052,6 +3667,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11508-2199",
+            "forumQualifier": "repo/11508-2199",
             "legacyQualifiers": [
                 "repo/11508-2199"
             ],
@@ -3073,6 +3689,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11509-2195",
+            "forumQualifier": "repo/11509-2195",
             "legacyQualifiers": [
                 "repo/11509-2195"
             ],
@@ -3094,6 +3711,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11513-2249",
+            "forumQualifier": "repo/11513-2249",
             "legacyQualifiers": [
                 "repo/11513-2249"
             ],
@@ -3115,6 +3733,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11522-2239",
+            "forumQualifier": "repo/11522-2239",
             "legacyQualifiers": [
                 "repo/11522-2239"
             ],
@@ -3136,6 +3755,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11527-2233",
+            "forumQualifier": "repo/11527-2233",
             "legacyQualifiers": [
                 "repo/11527-2233"
             ],
@@ -3157,6 +3777,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11529-2227",
+            "forumQualifier": "repo/11529-2227",
             "legacyQualifiers": [
                 "repo/11529-2227"
             ],
@@ -3178,6 +3799,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11543-2213",
+            "forumQualifier": "repo/11543-2213",
             "legacyQualifiers": [
                 "repo/11543-2213"
             ],
@@ -3199,6 +3821,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11554-2209",
+            "forumQualifier": "repo/11554-2209",
             "legacyQualifiers": [
                 "repo/11554-2209"
             ],
@@ -3220,6 +3843,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11558-2193",
+            "forumQualifier": "repo/11558-2193",
             "legacyQualifiers": [
                 "repo/11558-2193"
             ],
@@ -3241,6 +3865,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11565-2191",
+            "forumQualifier": "repo/11565-2191",
             "legacyQualifiers": [
                 "repo/11565-2191"
             ],
@@ -3262,6 +3887,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11571-1701",
+            "forumQualifier": "repo/11571-1701",
             "legacyQualifiers": [
                 "repo/11571-1701"
             ],
@@ -3275,6 +3901,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11571-620516",
+            "forumQualifier": "tcgplayer/11571-620516",
             "legacyQualifiers": [
                 "tcgplayer/11571-620516"
             ],
@@ -3296,6 +3923,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11573-2172",
+            "forumQualifier": "repo/11573-2172",
             "legacyQualifiers": [
                 "repo/11573-2172"
             ],
@@ -3317,6 +3945,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11574-2168",
+            "forumQualifier": "repo/11574-2168",
             "legacyQualifiers": [
                 "repo/11574-2168"
             ],
@@ -3338,6 +3967,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11575-2164",
+            "forumQualifier": "repo/11575-2164",
             "legacyQualifiers": [
                 "repo/11575-2164"
             ],
@@ -3359,6 +3989,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11576-2160",
+            "forumQualifier": "repo/11576-2160",
             "legacyQualifiers": [
                 "repo/11576-2160"
             ],
@@ -3380,6 +4011,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11577-2156",
+            "forumQualifier": "repo/11577-2156",
             "legacyQualifiers": [
                 "repo/11577-2156"
             ],
@@ -3401,6 +4033,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11578-2152",
+            "forumQualifier": "repo/11578-2152",
             "legacyQualifiers": [
                 "repo/11578-2152"
             ],
@@ -3422,6 +4055,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11579-2148",
+            "forumQualifier": "repo/11579-2148",
             "legacyQualifiers": [
                 "repo/11579-2148"
             ],
@@ -3443,6 +4077,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11580-2147",
+            "forumQualifier": "repo/11580-2147",
             "legacyQualifiers": [
                 "repo/11580-2147"
             ],
@@ -3464,6 +4099,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11581-2141",
+            "forumQualifier": "repo/11581-2141",
             "legacyQualifiers": [
                 "repo/11581-2141"
             ],
@@ -3485,6 +4121,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11583-2133",
+            "forumQualifier": "repo/11583-2133",
             "legacyQualifiers": [
                 "repo/11583-2133"
             ],
@@ -3506,6 +4143,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11584-2129",
+            "forumQualifier": "repo/11584-2129",
             "legacyQualifiers": [
                 "repo/11584-2129"
             ],
@@ -3527,6 +4165,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11585-2125",
+            "forumQualifier": "repo/11585-2125",
             "legacyQualifiers": [
                 "repo/11585-2125"
             ],
@@ -3548,6 +4187,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11586-2121",
+            "forumQualifier": "repo/11586-2121",
             "legacyQualifiers": [
                 "repo/11586-2121"
             ],
@@ -3569,6 +4209,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11587-2117",
+            "forumQualifier": "repo/11587-2117",
             "legacyQualifiers": [
                 "repo/11587-2117"
             ],
@@ -3590,6 +4231,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11588-2113",
+            "forumQualifier": "repo/11588-2113",
             "legacyQualifiers": [
                 "repo/11588-2113"
             ],
@@ -3611,6 +4253,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11589-2109",
+            "forumQualifier": "repo/11589-2109",
             "legacyQualifiers": [
                 "repo/11589-2109"
             ],
@@ -3632,6 +4275,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11590-2105",
+            "forumQualifier": "repo/11590-2105",
             "legacyQualifiers": [
                 "repo/11590-2105"
             ],
@@ -3653,6 +4297,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11591-2101",
+            "forumQualifier": "repo/11591-2101",
             "legacyQualifiers": [
                 "repo/11591-2101"
             ],
@@ -3674,6 +4319,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11597-788",
+            "forumQualifier": "repo/11597-788",
             "legacyQualifiers": [
                 "repo/11597-788",
                 "tcgplayer/11597-620295"
@@ -3696,6 +4342,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11604-1022",
+            "forumQualifier": "repo/11604-1022",
             "legacyQualifiers": [
                 "repo/11604-1022",
                 "tcgplayer/11604-620299"
@@ -3718,6 +4365,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11605-1032",
+            "forumQualifier": "repo/11605-1032",
             "legacyQualifiers": [
                 "repo/11605-1032",
                 "tcgplayer/11605-620293"
@@ -3732,6 +4380,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11605-620283",
+            "forumQualifier": "tcgplayer/11605-620283",
             "legacyQualifiers": [
                 "tcgplayer/11605-620283"
             ],
@@ -3753,6 +4402,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11606-996",
+            "forumQualifier": "repo/11606-996",
             "legacyQualifiers": [
                 "repo/11606-996",
                 "tcgplayer/11606-620319"
@@ -3775,6 +4425,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11607-791",
+            "forumQualifier": "repo/11607-791",
             "legacyQualifiers": [
                 "repo/11607-791"
             ],
@@ -3788,6 +4439,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11607-620311",
+            "forumQualifier": "tcgplayer/11607-620311",
             "legacyQualifiers": [
                 "tcgplayer/11607-620311"
             ],
@@ -3809,6 +4461,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11614-2041",
+            "forumQualifier": "repo/11614-2041",
             "legacyQualifiers": [
                 "repo/11614-2041"
             ],
@@ -3822,6 +4475,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11614-620288",
+            "forumQualifier": "tcgplayer/11614-620288",
             "legacyQualifiers": [
                 "tcgplayer/11614-620288"
             ],
@@ -3835,6 +4489,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11614-620321",
+            "forumQualifier": "tcgplayer/11614-620321",
             "legacyQualifiers": [
                 "tcgplayer/11614-620321"
             ],
@@ -3856,6 +4511,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11615-1026",
+            "forumQualifier": "repo/11615-1026",
             "legacyQualifiers": [
                 "repo/11615-1026"
             ],
@@ -3869,6 +4525,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11615-620284",
+            "forumQualifier": "tcgplayer/11615-620284",
             "legacyQualifiers": [
                 "tcgplayer/11615-620284"
             ],
@@ -3882,6 +4539,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11615-620297",
+            "forumQualifier": "tcgplayer/11615-620297",
             "legacyQualifiers": [
                 "tcgplayer/11615-620297"
             ],
@@ -3903,6 +4561,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11616-793",
+            "forumQualifier": "repo/11616-793",
             "legacyQualifiers": [
                 "repo/11616-793",
                 "tcgplayer/11616-620315"
@@ -3917,6 +4576,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11616-620287",
+            "forumQualifier": "tcgplayer/11616-620287",
             "legacyQualifiers": [
                 "tcgplayer/11616-620287"
             ],
@@ -3938,6 +4598,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11617-1008",
+            "forumQualifier": "repo/11617-1008",
             "legacyQualifiers": [
                 "repo/11617-1008",
                 "tcgplayer/11617-620309"
@@ -3960,6 +4621,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11618-980",
+            "forumQualifier": "repo/11618-980",
             "legacyQualifiers": [
                 "repo/11618-980"
             ],
@@ -3973,6 +4635,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11618-620289",
+            "forumQualifier": "tcgplayer/11618-620289",
             "legacyQualifiers": [
                 "tcgplayer/11618-620289"
             ],
@@ -3986,6 +4649,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11618-620329",
+            "forumQualifier": "tcgplayer/11618-620329",
             "legacyQualifiers": [
                 "tcgplayer/11618-620329"
             ],
@@ -4007,6 +4671,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11619-789",
+            "forumQualifier": "repo/11619-789",
             "legacyQualifiers": [
                 "repo/11619-789",
                 "tcgplayer/11619-620303"
@@ -4021,6 +4686,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11619-620285",
+            "forumQualifier": "tcgplayer/11619-620285",
             "legacyQualifiers": [
                 "tcgplayer/11619-620285"
             ],
@@ -4042,6 +4708,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11626-988",
+            "forumQualifier": "repo/11626-988",
             "legacyQualifiers": [
                 "repo/11626-988",
                 "tcgplayer/11626-620325"
@@ -4064,6 +4731,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11627-984",
+            "forumQualifier": "repo/11627-984",
             "legacyQualifiers": [
                 "repo/11627-984"
             ],
@@ -4077,6 +4745,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11627-620327",
+            "forumQualifier": "tcgplayer/11627-620327",
             "legacyQualifiers": [
                 "tcgplayer/11627-620327"
             ],
@@ -4098,6 +4767,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11628-787",
+            "forumQualifier": "repo/11628-787",
             "legacyQualifiers": [
                 "repo/11628-787"
             ],
@@ -4111,6 +4781,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11628-620282",
+            "forumQualifier": "tcgplayer/11628-620282",
             "legacyQualifiers": [
                 "tcgplayer/11628-620282"
             ],
@@ -4124,6 +4795,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11628-620291",
+            "forumQualifier": "tcgplayer/11628-620291",
             "legacyQualifiers": [
                 "tcgplayer/11628-620291"
             ],
@@ -4145,6 +4817,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11629-790",
+            "forumQualifier": "repo/11629-790",
             "legacyQualifiers": [
                 "repo/11629-790",
                 "tcgplayer/11629-620305"
@@ -4159,6 +4832,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11629-620286",
+            "forumQualifier": "tcgplayer/11629-620286",
             "legacyQualifiers": [
                 "tcgplayer/11629-620286"
             ],
@@ -4172,6 +4846,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11629-678033",
+            "forumQualifier": "tcgplayer/11629-678033",
             "legacyQualifiers": [
                 "tcgplayer/11629-678033",
                 "tcgplayer/11629-678034"
@@ -4194,6 +4869,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11630-1012",
+            "forumQualifier": "repo/11630-1012",
             "legacyQualifiers": [
                 "repo/11630-1012"
             ],
@@ -4207,6 +4883,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11630-620307",
+            "forumQualifier": "tcgplayer/11630-620307",
             "legacyQualifiers": [
                 "tcgplayer/11630-620307"
             ],
@@ -4228,6 +4905,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11631-1002",
+            "forumQualifier": "repo/11631-1002",
             "legacyQualifiers": [
                 "repo/11631-1002",
                 "tcgplayer/11631-620313"
@@ -4250,6 +4928,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11632-794",
+            "forumQualifier": "repo/11632-794",
             "legacyQualifiers": [
                 "repo/11632-794"
             ],
@@ -4263,6 +4942,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11632-620317",
+            "forumQualifier": "tcgplayer/11632-620317",
             "legacyQualifiers": [
                 "tcgplayer/11632-620317"
             ],
@@ -4284,6 +4964,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11636-1677",
+            "forumQualifier": "repo/11636-1677",
             "legacyQualifiers": [
                 "repo/11636-1677"
             ],
@@ -4297,6 +4978,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11636-620528",
+            "forumQualifier": "tcgplayer/11636-620528",
             "legacyQualifiers": [
                 "tcgplayer/11636-620528"
             ],
@@ -4318,6 +5000,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11637-1018",
+            "forumQualifier": "repo/11637-1018",
             "legacyQualifiers": [
                 "repo/11637-1018",
                 "tcgplayer/11637-620301"
@@ -4332,6 +5015,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11637-678035",
+            "forumQualifier": "tcgplayer/11637-678035",
             "legacyQualifiers": [
                 "tcgplayer/11637-678035",
                 "tcgplayer/11637-678036"
@@ -4354,6 +5038,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11642-1693",
+            "forumQualifier": "repo/11642-1693",
             "legacyQualifiers": [
                 "repo/11642-1693",
                 "tcgplayer/11642-620520"
@@ -4376,6 +5061,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11643-992",
+            "forumQualifier": "repo/11643-992",
             "legacyQualifiers": [
                 "repo/11643-992",
                 "tcgplayer/11643-620323"
@@ -4398,6 +5084,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11646-1669",
+            "forumQualifier": "repo/11646-1669",
             "legacyQualifiers": [
                 "repo/11646-1669"
             ],
@@ -4411,6 +5098,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11646-620532",
+            "forumQualifier": "tcgplayer/11646-620532",
             "legacyQualifiers": [
                 "tcgplayer/11646-620532"
             ],
@@ -4432,6 +5120,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11702-1765",
+            "forumQualifier": "repo/11702-1765",
             "legacyQualifiers": [
                 "repo/11702-1765"
             ],
@@ -4445,6 +5134,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11702-620484",
+            "forumQualifier": "tcgplayer/11702-620484",
             "legacyQualifiers": [
                 "tcgplayer/11702-620484"
             ],
@@ -4466,6 +5156,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11703-1733",
+            "forumQualifier": "repo/11703-1733",
             "legacyQualifiers": [
                 "repo/11703-1733",
                 "tcgplayer/11703-620500"
@@ -4488,6 +5179,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11704-1727",
+            "forumQualifier": "repo/11704-1727",
             "legacyQualifiers": [
                 "repo/11704-1727",
                 "tcgplayer/11704-620503"
@@ -4510,6 +5202,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11705-1721",
+            "forumQualifier": "repo/11705-1721",
             "legacyQualifiers": [
                 "repo/11705-1721",
                 "tcgplayer/11705-620506"
@@ -4532,6 +5225,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11707-1681",
+            "forumQualifier": "repo/11707-1681",
             "legacyQualifiers": [
                 "repo/11707-1681",
                 "tcgplayer/11707-620526"
@@ -4554,6 +5248,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11708-1673",
+            "forumQualifier": "repo/11708-1673",
             "legacyQualifiers": [
                 "repo/11708-1673"
             ],
@@ -4567,6 +5262,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11708-620530",
+            "forumQualifier": "tcgplayer/11708-620530",
             "legacyQualifiers": [
                 "tcgplayer/11708-620530"
             ],
@@ -4588,6 +5284,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11750-1757",
+            "forumQualifier": "repo/11750-1757",
             "legacyQualifiers": [
                 "repo/11750-1757",
                 "tcgplayer/11750-620488"
@@ -4610,6 +5307,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11752-1749",
+            "forumQualifier": "repo/11752-1749",
             "legacyQualifiers": [
                 "repo/11752-1749",
                 "tcgplayer/11752-620492"
@@ -4632,6 +5330,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11753-1745",
+            "forumQualifier": "repo/11753-1745",
             "legacyQualifiers": [
                 "repo/11753-1745",
                 "tcgplayer/11753-620494"
@@ -4654,6 +5353,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11754-1741",
+            "forumQualifier": "repo/11754-1741",
             "legacyQualifiers": [
                 "repo/11754-1741"
             ],
@@ -4667,6 +5367,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11754-620496",
+            "forumQualifier": "tcgplayer/11754-620496",
             "legacyQualifiers": [
                 "tcgplayer/11754-620496"
             ],
@@ -4688,6 +5389,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11755-1737",
+            "forumQualifier": "repo/11755-1737",
             "legacyQualifiers": [
                 "repo/11755-1737"
             ],
@@ -4701,6 +5403,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11755-620498",
+            "forumQualifier": "tcgplayer/11755-620498",
             "legacyQualifiers": [
                 "tcgplayer/11755-620498"
             ],
@@ -4722,6 +5425,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11757-1705",
+            "forumQualifier": "repo/11757-1705",
             "legacyQualifiers": [
                 "repo/11757-1705",
                 "tcgplayer/11757-620514"
@@ -4744,6 +5448,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11758-1697",
+            "forumQualifier": "repo/11758-1697",
             "legacyQualifiers": [
                 "repo/11758-1697",
                 "tcgplayer/11758-620518"
@@ -4766,6 +5471,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11760-1663",
+            "forumQualifier": "repo/11760-1663",
             "legacyQualifiers": [
                 "repo/11760-1663",
                 "tcgplayer/11760-620535"
@@ -4788,6 +5494,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11761-1651",
+            "forumQualifier": "repo/11761-1651",
             "legacyQualifiers": [
                 "repo/11761-1651"
             ],
@@ -4801,6 +5508,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11761-620541",
+            "forumQualifier": "tcgplayer/11761-620541",
             "legacyQualifiers": [
                 "tcgplayer/11761-620541"
             ],
@@ -4822,6 +5530,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11764-1685",
+            "forumQualifier": "repo/11764-1685",
             "legacyQualifiers": [
                 "repo/11764-1685"
             ],
@@ -4835,6 +5544,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11764-620524",
+            "forumQualifier": "tcgplayer/11764-620524",
             "legacyQualifiers": [
                 "tcgplayer/11764-620524"
             ],
@@ -4856,6 +5566,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11765-1659",
+            "forumQualifier": "repo/11765-1659",
             "legacyQualifiers": [
                 "repo/11765-1659"
             ],
@@ -4869,6 +5580,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11765-620537",
+            "forumQualifier": "tcgplayer/11765-620537",
             "legacyQualifiers": [
                 "tcgplayer/11765-620537"
             ],
@@ -4890,6 +5602,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11795-1717",
+            "forumQualifier": "repo/11795-1717",
             "legacyQualifiers": [
                 "repo/11795-1717",
                 "tcgplayer/11795-620508"
@@ -4912,6 +5625,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11797-1709",
+            "forumQualifier": "repo/11797-1709",
             "legacyQualifiers": [
                 "repo/11797-1709"
             ],
@@ -4925,6 +5639,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11797-620512",
+            "forumQualifier": "tcgplayer/11797-620512",
             "legacyQualifiers": [
                 "tcgplayer/11797-620512"
             ],
@@ -4946,6 +5661,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11801-1761",
+            "forumQualifier": "repo/11801-1761",
             "legacyQualifiers": [
                 "repo/11801-1761",
                 "tcgplayer/11801-620486"
@@ -4968,6 +5684,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11803-1655",
+            "forumQualifier": "repo/11803-1655",
             "legacyQualifiers": [
                 "repo/11803-1655",
                 "tcgplayer/11803-620539"
@@ -4990,6 +5707,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11804-1647",
+            "forumQualifier": "repo/11804-1647",
             "legacyQualifiers": [
                 "repo/11804-1647"
             ],
@@ -5003,6 +5721,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11804-620543",
+            "forumQualifier": "tcgplayer/11804-620543",
             "legacyQualifiers": [
                 "tcgplayer/11804-620543"
             ],
@@ -5024,6 +5743,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11809-1226",
+            "forumQualifier": "repo/11809-1226",
             "legacyQualifiers": [
                 "repo/11809-1226"
             ],
@@ -5037,6 +5757,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11809-630659",
+            "forumQualifier": "tcgplayer/11809-630659",
             "legacyQualifiers": [
                 "tcgplayer/11809-630659"
             ],
@@ -5063,6 +5784,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11816-1180",
+            "forumQualifier": "repo/11816-1180",
             "legacyQualifiers": [
                 "repo/11816-1180"
             ],
@@ -5096,6 +5818,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11821-1248",
+            "forumQualifier": "repo/11821-1248",
             "legacyQualifiers": [
                 "repo/11821-1248"
             ],
@@ -5129,6 +5852,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11825-1218",
+            "forumQualifier": "repo/11825-1218",
             "legacyQualifiers": [
                 "repo/11825-1218"
             ],
@@ -5162,6 +5886,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11829-1242",
+            "forumQualifier": "repo/11829-1242",
             "legacyQualifiers": [
                 "repo/11829-1242"
             ],
@@ -5190,6 +5915,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11831-1228",
+            "forumQualifier": "repo/11831-1228",
             "legacyQualifiers": [
                 "repo/11831-1228",
                 "tcgplayer/11831-630658"
@@ -5204,6 +5930,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11831-630454",
+            "forumQualifier": "tcgplayer/11831-630454",
             "legacyQualifiers": [
                 "tcgplayer/11831-630454"
             ],
@@ -5230,6 +5957,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11832-1212",
+            "forumQualifier": "repo/11832-1212",
             "legacyQualifiers": [
                 "repo/11832-1212"
             ],
@@ -5263,6 +5991,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11840-1238",
+            "forumQualifier": "repo/11840-1238",
             "legacyQualifiers": [
                 "repo/11840-1238"
             ],
@@ -5291,6 +6020,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11844-1244",
+            "forumQualifier": "repo/11844-1244",
             "legacyQualifiers": [
                 "repo/11844-1244",
                 "tcgplayer/11844-630652"
@@ -5318,6 +6048,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11845-1224",
+            "forumQualifier": "repo/11845-1224",
             "legacyQualifiers": [
                 "repo/11845-1224"
             ],
@@ -5351,6 +6082,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11853-1252",
+            "forumQualifier": "repo/11853-1252",
             "legacyQualifiers": [
                 "repo/11853-1252"
             ],
@@ -5379,6 +6111,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11855-1234",
+            "forumQualifier": "repo/11855-1234",
             "legacyQualifiers": [
                 "repo/11855-1234"
             ],
@@ -5405,6 +6138,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11857-1220",
+            "forumQualifier": "repo/11857-1220",
             "legacyQualifiers": [
                 "repo/11857-1220"
             ],
@@ -5433,6 +6167,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11868-1230",
+            "forumQualifier": "repo/11868-1230",
             "legacyQualifiers": [
                 "repo/11868-1230",
                 "tcgplayer/11868-630657"
@@ -5455,6 +6190,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11882-1214",
+            "forumQualifier": "repo/11882-1214",
             "legacyQualifiers": [
                 "repo/11882-1214"
             ],
@@ -5468,6 +6204,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11882-630663",
+            "forumQualifier": "tcgplayer/11882-630663",
             "legacyQualifiers": [
                 "tcgplayer/11882-630663"
             ],
@@ -5489,6 +6226,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11887-1208",
+            "forumQualifier": "repo/11887-1208",
             "legacyQualifiers": [
                 "repo/11887-1208",
                 "tcgplayer/11887-630665"
@@ -5511,6 +6249,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11890-1200",
+            "forumQualifier": "repo/11890-1200",
             "legacyQualifiers": [
                 "repo/11890-1200",
                 "tcgplayer/11890-630668"
@@ -5533,6 +6272,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11896-1198",
+            "forumQualifier": "repo/11896-1198",
             "legacyQualifiers": [
                 "repo/11896-1198",
                 "tcgplayer/11896-630669"
@@ -5555,6 +6295,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11919-1168",
+            "forumQualifier": "repo/11919-1168",
             "legacyQualifiers": [
                 "repo/11919-1168"
             ],
@@ -5576,6 +6317,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11924-1160",
+            "forumQualifier": "repo/11924-1160",
             "legacyQualifiers": [
                 "repo/11924-1160"
             ],
@@ -5602,6 +6344,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11931-1186",
+            "forumQualifier": "repo/11931-1186",
             "legacyQualifiers": [
                 "repo/11931-1186"
             ],
@@ -5635,6 +6378,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11933-1164",
+            "forumQualifier": "repo/11933-1164",
             "legacyQualifiers": [
                 "repo/11933-1164"
             ],
@@ -5668,6 +6412,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11936-1206",
+            "forumQualifier": "repo/11936-1206",
             "legacyQualifiers": [
                 "repo/11936-1206"
             ],
@@ -5696,6 +6441,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11938-1202",
+            "forumQualifier": "repo/11938-1202",
             "legacyQualifiers": [
                 "repo/11938-1202"
             ],
@@ -5722,6 +6468,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11947-1196",
+            "forumQualifier": "repo/11947-1196",
             "legacyQualifiers": [
                 "repo/11947-1196"
             ],
@@ -5750,6 +6497,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11956-1192",
+            "forumQualifier": "repo/11956-1192",
             "legacyQualifiers": [
                 "repo/11956-1192",
                 "tcgplayer/11956-630671"
@@ -5772,6 +6520,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11957-1188",
+            "forumQualifier": "repo/11957-1188",
             "legacyQualifiers": [
                 "repo/11957-1188"
             ],
@@ -5793,6 +6542,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11959-1182",
+            "forumQualifier": "repo/11959-1182",
             "legacyQualifiers": [
                 "repo/11959-1182"
             ],
@@ -5814,6 +6564,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11966-1176",
+            "forumQualifier": "repo/11966-1176",
             "legacyQualifiers": [
                 "repo/11966-1176"
             ],
@@ -5827,6 +6578,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "tcgplayer/11966-630677",
+            "forumQualifier": "tcgplayer/11966-630677",
             "legacyQualifiers": [
                 "tcgplayer/11966-630677"
             ],
@@ -5848,6 +6600,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11968-1174",
+            "forumQualifier": "repo/11968-1174",
             "legacyQualifiers": [
                 "repo/11968-1174"
             ],
@@ -5874,6 +6627,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11973-1172",
+            "forumQualifier": "repo/11973-1172",
             "legacyQualifiers": [
                 "repo/11973-1172"
             ],
@@ -5902,6 +6656,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11976-1166",
+            "forumQualifier": "repo/11976-1166",
             "legacyQualifiers": [
                 "repo/11976-1166",
                 "tcgplayer/11976-630681"
@@ -5924,6 +6679,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/11993-1190",
+            "forumQualifier": "repo/11993-1190",
             "legacyQualifiers": [
                 "repo/11993-1190",
                 "tcgplayer/11993-630672"
@@ -5946,6 +6702,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12006-1158",
+            "forumQualifier": "repo/12006-1158",
             "legacyQualifiers": [
                 "repo/12006-1158"
             ],
@@ -5967,6 +6724,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12010-1156",
+            "forumQualifier": "repo/12010-1156",
             "legacyQualifiers": [
                 "repo/12010-1156",
                 "tcgplayer/12010-630685"
@@ -5989,6 +6747,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12014-784",
+            "forumQualifier": "repo/12014-784",
             "legacyQualifiers": [
                 "repo/12014-784"
             ],
@@ -6010,6 +6769,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12015-782",
+            "forumQualifier": "repo/12015-782",
             "legacyQualifiers": [
                 "repo/12015-782"
             ],
@@ -6031,6 +6791,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12018-755",
+            "forumQualifier": "repo/12018-755",
             "legacyQualifiers": [
                 "repo/12018-755"
             ],
@@ -6052,6 +6813,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12019-753",
+            "forumQualifier": "repo/12019-753",
             "legacyQualifiers": [
                 "repo/12019-753"
             ],
@@ -6073,6 +6835,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12023-779",
+            "forumQualifier": "repo/12023-779",
             "legacyQualifiers": [
                 "repo/12023-779"
             ],
@@ -6094,6 +6857,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12024-776",
+            "forumQualifier": "repo/12024-776",
             "legacyQualifiers": [
                 "repo/12024-776"
             ],
@@ -6115,6 +6879,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12025-773",
+            "forumQualifier": "repo/12025-773",
             "legacyQualifiers": [
                 "repo/12025-773"
             ],
@@ -6136,6 +6901,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12026-771",
+            "forumQualifier": "repo/12026-771",
             "legacyQualifiers": [
                 "repo/12026-771"
             ],
@@ -6157,6 +6923,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12030-750",
+            "forumQualifier": "repo/12030-750",
             "legacyQualifiers": [
                 "repo/12030-750"
             ],
@@ -6178,6 +6945,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12031-748",
+            "forumQualifier": "repo/12031-748",
             "legacyQualifiers": [
                 "repo/12031-748"
             ],
@@ -6199,6 +6967,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12036-768",
+            "forumQualifier": "repo/12036-768",
             "legacyQualifiers": [
                 "repo/12036-768"
             ],
@@ -6220,6 +6989,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12037-745",
+            "forumQualifier": "repo/12037-745",
             "legacyQualifiers": [
                 "repo/12037-745"
             ],
@@ -6241,6 +7011,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12049-740",
+            "forumQualifier": "repo/12049-740",
             "legacyQualifiers": [
                 "repo/12049-740"
             ],
@@ -6262,6 +7033,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12054-742",
+            "forumQualifier": "repo/12054-742",
             "legacyQualifiers": [
                 "repo/12054-742"
             ],
@@ -6283,6 +7055,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12063-758",
+            "forumQualifier": "repo/12063-758",
             "legacyQualifiers": [
                 "repo/12063-758"
             ],
@@ -6304,6 +7077,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12064-735",
+            "forumQualifier": "repo/12064-735",
             "legacyQualifiers": [
                 "repo/12064-735"
             ],
@@ -6325,6 +7099,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12308-2176",
+            "forumQualifier": "repo/12308-2176",
             "legacyQualifiers": [
                 "repo/12308-2176"
             ],
@@ -6346,6 +7121,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12360-11828",
+            "forumQualifier": "repo/12360-11828",
             "legacyQualifiers": [
                 "repo/12360-11828"
             ],
@@ -6367,6 +7143,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12361-11830",
+            "forumQualifier": "repo/12361-11830",
             "legacyQualifiers": [
                 "repo/12361-11830"
             ],
@@ -6388,6 +7165,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12362-11832",
+            "forumQualifier": "repo/12362-11832",
             "legacyQualifiers": [
                 "repo/12362-11832"
             ],
@@ -6409,6 +7187,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12364-11835",
+            "forumQualifier": "repo/12364-11835",
             "legacyQualifiers": [
                 "repo/12364-11835"
             ],
@@ -6430,6 +7209,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12365-11837",
+            "forumQualifier": "repo/12365-11837",
             "legacyQualifiers": [
                 "repo/12365-11837"
             ],
@@ -6451,6 +7231,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12369-11842",
+            "forumQualifier": "repo/12369-11842",
             "legacyQualifiers": [
                 "repo/12369-11842"
             ],
@@ -6472,6 +7253,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12370-11844",
+            "forumQualifier": "repo/12370-11844",
             "legacyQualifiers": [
                 "repo/12370-11844"
             ],
@@ -6493,6 +7275,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12371-11846",
+            "forumQualifier": "repo/12371-11846",
             "legacyQualifiers": [
                 "repo/12371-11846"
             ],
@@ -6514,6 +7297,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12372-11848",
+            "forumQualifier": "repo/12372-11848",
             "legacyQualifiers": [
                 "repo/12372-11848"
             ],
@@ -6535,6 +7319,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12382-11859",
+            "forumQualifier": "repo/12382-11859",
             "legacyQualifiers": [
                 "repo/12382-11859"
             ],
@@ -6556,6 +7341,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12383-11861",
+            "forumQualifier": "repo/12383-11861",
             "legacyQualifiers": [
                 "repo/12383-11861"
             ],
@@ -6577,6 +7363,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12384-11863",
+            "forumQualifier": "repo/12384-11863",
             "legacyQualifiers": [
                 "repo/12384-11863"
             ],
@@ -6598,6 +7385,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12386-11866",
+            "forumQualifier": "repo/12386-11866",
             "legacyQualifiers": [
                 "repo/12386-11866"
             ],
@@ -6619,6 +7407,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12388-11869",
+            "forumQualifier": "repo/12388-11869",
             "legacyQualifiers": [
                 "repo/12388-11869"
             ],
@@ -6640,6 +7429,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12389-11871",
+            "forumQualifier": "repo/12389-11871",
             "legacyQualifiers": [
                 "repo/12389-11871"
             ],
@@ -6661,6 +7451,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12391-11874",
+            "forumQualifier": "repo/12391-11874",
             "legacyQualifiers": [
                 "repo/12391-11874"
             ],
@@ -6682,6 +7473,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12392-11876",
+            "forumQualifier": "repo/12392-11876",
             "legacyQualifiers": [
                 "repo/12392-11876"
             ],
@@ -6703,6 +7495,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12394-11879",
+            "forumQualifier": "repo/12394-11879",
             "legacyQualifiers": [
                 "repo/12394-11879"
             ],
@@ -6724,6 +7517,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12405-14219",
+            "forumQualifier": "repo/12405-14219",
             "legacyQualifiers": [
                 "repo/12405-14219"
             ],
@@ -6745,6 +7539,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12406-14220",
+            "forumQualifier": "repo/12406-14220",
             "legacyQualifiers": [
                 "repo/12406-14220"
             ],
@@ -6766,6 +7561,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12407-14221",
+            "forumQualifier": "repo/12407-14221",
             "legacyQualifiers": [
                 "repo/12407-14221"
             ],
@@ -6787,6 +7583,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12408-14222",
+            "forumQualifier": "repo/12408-14222",
             "legacyQualifiers": [
                 "repo/12408-14222"
             ],
@@ -6808,6 +7605,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12409-14223",
+            "forumQualifier": "repo/12409-14223",
             "legacyQualifiers": [
                 "repo/12409-14223"
             ],
@@ -6829,6 +7627,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12410-14224",
+            "forumQualifier": "repo/12410-14224",
             "legacyQualifiers": [
                 "repo/12410-14224"
             ],
@@ -6850,6 +7649,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12411-14225",
+            "forumQualifier": "repo/12411-14225",
             "legacyQualifiers": [
                 "repo/12411-14225"
             ],
@@ -6871,6 +7671,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12412-14226",
+            "forumQualifier": "repo/12412-14226",
             "legacyQualifiers": [
                 "repo/12412-14226"
             ],
@@ -6892,6 +7693,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12413-14227",
+            "forumQualifier": "repo/12413-14227",
             "legacyQualifiers": [
                 "repo/12413-14227"
             ],
@@ -6913,6 +7715,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12414-14228",
+            "forumQualifier": "repo/12414-14228",
             "legacyQualifiers": [
                 "repo/12414-14228"
             ],
@@ -6934,6 +7737,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12415-14229",
+            "forumQualifier": "repo/12415-14229",
             "legacyQualifiers": [
                 "repo/12415-14229"
             ],
@@ -6955,6 +7759,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12416-14230",
+            "forumQualifier": "repo/12416-14230",
             "legacyQualifiers": [
                 "repo/12416-14230"
             ],
@@ -6976,6 +7781,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12417-14231",
+            "forumQualifier": "repo/12417-14231",
             "legacyQualifiers": [
                 "repo/12417-14231"
             ],
@@ -6997,6 +7803,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12418-14232",
+            "forumQualifier": "repo/12418-14232",
             "legacyQualifiers": [
                 "repo/12418-14232"
             ],
@@ -7018,6 +7825,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12445-14242",
+            "forumQualifier": "repo/12445-14242",
             "legacyQualifiers": [
                 "repo/12445-14242"
             ],
@@ -7039,6 +7847,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12461-14233",
+            "forumQualifier": "repo/12461-14233",
             "legacyQualifiers": [
                 "repo/12461-14233"
             ],
@@ -7060,6 +7869,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12464-14235",
+            "forumQualifier": "repo/12464-14235",
             "legacyQualifiers": [
                 "repo/12464-14235"
             ],
@@ -7081,6 +7891,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12466-14253",
+            "forumQualifier": "repo/12466-14253",
             "legacyQualifiers": [
                 "repo/12466-14253"
             ],
@@ -7102,6 +7913,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12470-14236",
+            "forumQualifier": "repo/12470-14236",
             "legacyQualifiers": [
                 "repo/12470-14236"
             ],
@@ -7123,6 +7935,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12483-14237",
+            "forumQualifier": "repo/12483-14237",
             "legacyQualifiers": [
                 "repo/12483-14237"
             ],
@@ -7144,6 +7957,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12486-14243",
+            "forumQualifier": "repo/12486-14243",
             "legacyQualifiers": [
                 "repo/12486-14243"
             ],
@@ -7165,6 +7979,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12487-14248",
+            "forumQualifier": "repo/12487-14248",
             "legacyQualifiers": [
                 "repo/12487-14248"
             ],
@@ -7186,6 +8001,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12490-14251",
+            "forumQualifier": "repo/12490-14251",
             "legacyQualifiers": [
                 "repo/12490-14251"
             ],
@@ -7207,6 +8023,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12493-14255",
+            "forumQualifier": "repo/12493-14255",
             "legacyQualifiers": [
                 "repo/12493-14255"
             ],
@@ -7228,6 +8045,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12508-14234",
+            "forumQualifier": "repo/12508-14234",
             "legacyQualifiers": [
                 "repo/12508-14234"
             ],
@@ -7249,6 +8067,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12518-14240",
+            "forumQualifier": "repo/12518-14240",
             "legacyQualifiers": [
                 "repo/12518-14240"
             ],
@@ -7270,6 +8089,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12523-14256",
+            "forumQualifier": "repo/12523-14256",
             "legacyQualifiers": [
                 "repo/12523-14256"
             ],
@@ -7291,6 +8111,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12528-14258",
+            "forumQualifier": "repo/12528-14258",
             "legacyQualifiers": [
                 "repo/12528-14258"
             ],
@@ -7312,6 +8133,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12535-14238",
+            "forumQualifier": "repo/12535-14238",
             "legacyQualifiers": [
                 "repo/12535-14238"
             ],
@@ -7333,6 +8155,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12536-14241",
+            "forumQualifier": "repo/12536-14241",
             "legacyQualifiers": [
                 "repo/12536-14241"
             ],
@@ -7354,6 +8177,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12537-14252",
+            "forumQualifier": "repo/12537-14252",
             "legacyQualifiers": [
                 "repo/12537-14252"
             ],
@@ -7375,6 +8199,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12561-14239",
+            "forumQualifier": "repo/12561-14239",
             "legacyQualifiers": [
                 "repo/12561-14239"
             ],
@@ -7396,6 +8221,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12563-14244",
+            "forumQualifier": "repo/12563-14244",
             "legacyQualifiers": [
                 "repo/12563-14244"
             ],
@@ -7417,6 +8243,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12565-14246",
+            "forumQualifier": "repo/12565-14246",
             "legacyQualifiers": [
                 "repo/12565-14246"
             ],
@@ -7438,6 +8265,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12566-14249",
+            "forumQualifier": "repo/12566-14249",
             "legacyQualifiers": [
                 "repo/12566-14249"
             ],
@@ -7459,6 +8287,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12567-14250",
+            "forumQualifier": "repo/12567-14250",
             "legacyQualifiers": [
                 "repo/12567-14250"
             ],
@@ -7480,6 +8309,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12571-14254",
+            "forumQualifier": "repo/12571-14254",
             "legacyQualifiers": [
                 "repo/12571-14254"
             ],
@@ -7501,6 +8331,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12575-14257",
+            "forumQualifier": "repo/12575-14257",
             "legacyQualifiers": [
                 "repo/12575-14257"
             ],
@@ -7522,6 +8353,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12589-14247",
+            "forumQualifier": "repo/12589-14247",
             "legacyQualifiers": [
                 "repo/12589-14247"
             ],
@@ -7543,6 +8375,7 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
         },
         {
             "artworkId": "repo/12594-14245",
+            "forumQualifier": "repo/12594-14245",
             "legacyQualifiers": [
                 "repo/12594-14245"
             ],
@@ -7552,6 +8385,204 @@ globalThis.UVSU_REMOTE_CARD_ART = Object.freeze({
             "imageUrls": {
                 "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12594-14245-preview.jpg",
                 "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12594-14245-ci-micro.jpg"
+            }
+        }
+    ],
+    "9343": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha01",
+            "cardNumber": "207"
+        },
+        {
+            "artworkId": "repo/9343-4056",
+            "forumQualifier": "repo/9343-4056",
+            "legacyQualifiers": [
+                "repo/9343-4056"
+            ],
+            "label": "Official Alternate Art (4056)",
+            "setId": "mha01",
+            "cardNumber": "207",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9343-4056-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9343-4056-ci-micro.jpg"
+            }
+        }
+    ],
+    "9386": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha01",
+            "cardNumber": "242"
+        },
+        {
+            "artworkId": "repo/9386-3926",
+            "forumQualifier": "repo/9386-3926",
+            "legacyQualifiers": [
+                "repo/9386-3926"
+            ],
+            "label": "Official Alternate Art (3926)",
+            "setId": "mha01",
+            "cardNumber": "242",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9386-3926-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9386-3926-ci-micro.jpg"
+            }
+        }
+    ],
+    "9414": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha02",
+            "cardNumber": "028"
+        },
+        {
+            "artworkId": "repo/9414-3936",
+            "forumQualifier": "repo/9414-3936",
+            "legacyQualifiers": [
+                "repo/9414-3936"
+            ],
+            "label": "Official Alternate Art (3936)",
+            "setId": "mha02",
+            "cardNumber": "028",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9414-3936-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9414-3936-ci-micro.jpg"
+            }
+        }
+    ],
+    "9418": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha02",
+            "cardNumber": "085"
+        },
+        {
+            "artworkId": "repo/9418-4142",
+            "forumQualifier": "repo/9418-4142",
+            "legacyQualifiers": [
+                "repo/9418-4142"
+            ],
+            "label": "Official Alternate Art (4142)",
+            "setId": "mha02",
+            "cardNumber": "085",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9418-4142-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/9418-4142-ci-micro.jpg"
+            }
+        }
+    ],
+    "10262": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha06",
+            "cardNumber": "118"
+        },
+        {
+            "artworkId": "repo/10262-3894",
+            "forumQualifier": "repo/10262-3894",
+            "legacyQualifiers": [
+                "repo/10262-3894"
+            ],
+            "label": "Official Alternate Art (3894)",
+            "setId": "mha06",
+            "cardNumber": "118",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10262-3894-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10262-3894-ci-micro.jpg"
+            }
+        }
+    ],
+    "10337": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "mha06",
+            "cardNumber": "200"
+        },
+        {
+            "artworkId": "repo/10337-4034",
+            "forumQualifier": "repo/10337-4034",
+            "legacyQualifiers": [
+                "repo/10337-4034"
+            ],
+            "label": "Official Alternate Art (4034)",
+            "setId": "mha06",
+            "cardNumber": "200",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10337-4034-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/10337-4034-ci-micro.jpg"
+            }
+        }
+    ],
+    "12496": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "gdz01",
+            "cardNumber": "175"
+        },
+        {
+            "artworkId": "repo/12496-14262",
+            "forumQualifier": "repo/12496-14262",
+            "legacyQualifiers": [
+                "repo/12496-14262"
+            ],
+            "label": "Official Alternate Art (GDZ01 175)",
+            "setId": "gdz01",
+            "cardNumber": "175",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12496-14262-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12496-14262-ci-micro.jpg"
+            }
+        }
+    ],
+    "12582": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "gdz01",
+            "cardNumber": "174"
+        },
+        {
+            "artworkId": "repo/12582-14261",
+            "forumQualifier": "repo/12582-14261",
+            "legacyQualifiers": [
+                "repo/12582-14261"
+            ],
+            "label": "Official Alternate Art (GDZ01 174)",
+            "setId": "gdz01",
+            "cardNumber": "174",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12582-14261-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12582-14261-ci-micro.jpg"
+            }
+        }
+    ],
+    "12583": [
+        {
+            "artworkId": "original",
+            "label": "Original",
+            "setId": "gdz01",
+            "cardNumber": "176"
+        },
+        {
+            "artworkId": "repo/12583-14263",
+            "forumQualifier": "repo/12583-14263",
+            "legacyQualifiers": [
+                "repo/12583-14263"
+            ],
+            "label": "Official Alternate Art (GDZ01 176)",
+            "setId": "gdz01",
+            "cardNumber": "176",
+            "imageUrls": {
+                "preview": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12583-14263-preview.jpg",
+                "micro": "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/c51ccad95e9873ec3f4a49089d1589a140d7ded4/alternate-art/runtime-images/12583-14263-ci-micro.jpg"
             }
         }
     ]

@@ -19,6 +19,7 @@ EXPECTED_COUNTS = {
 }
 PREVIEW_SIZE = (358, 500)
 MICRO_SIZE = (20, 20)
+SAFE_QUALIFIER = re.compile(r"^[A-Za-z0-9_-]+/[A-Za-z0-9_-]+$")
 
 
 def parse_args() -> argparse.Namespace:
@@ -48,6 +49,18 @@ def prepare_image(source: Path, destination: Path, size: tuple[int, int]) -> Non
         rgb = image.convert("RGB")
         fitted = ImageOps.fit(rgb, size, method=Image.Resampling.LANCZOS)
         fitted.save(destination, "JPEG", quality=90, optimize=True)
+
+
+def forum_qualifier(alternate: dict[str, Any]) -> str:
+    for source in alternate.get("provenance") or []:
+        if source.get("source") == "ultra-hosted":
+            source_id = str(source.get("sourceId") or "")
+            if SAFE_QUALIFIER.fullmatch(source_id):
+                return source_id
+    qualifier = str(alternate.get("artworkId") or "")
+    if not SAFE_QUALIFIER.fullmatch(qualifier):
+        raise ValueError(f"invalid Forum Code qualifier: {qualifier!r}")
+    return qualifier
 
 
 def main() -> None:
@@ -81,6 +94,7 @@ def main() -> None:
     )
     output: dict[str, list[dict[str, Any]]] = {}
     artwork_ids: set[str] = set()
+    represented_qualifiers: set[str] = set()
     referenced_paths: set[str] = set()
 
     def checked_path(relative_path: str) -> Path:
@@ -96,6 +110,11 @@ def main() -> None:
         referenced_paths.add(relative.as_posix())
         encoded = "/".join(quote(part, safe="") for part in relative.parts)
         return repository_url + encoded
+
+    runtime_root = assets / "alternate-art" / "runtime"
+
+    def runtime_relative(value: str) -> Path:
+        return (runtime_root / value).resolve().relative_to(assets)
 
     for card in catalog["cards"]:
         card_id = str(card["uvsUltraCardId"])
@@ -136,12 +155,18 @@ def main() -> None:
                     prepare_image(source, assets / micro_path, MICRO_SIZE)
 
             provenance = alternate.get("provenance") or []
+            represented_qualifiers.update(
+                str(item["qualifier"])
+                for item in provenance
+                if item.get("qualifier")
+            )
             label = next(
                 (item.get("label") for item in provenance if item.get("label")),
                 f"Alternate Art {index}",
             )
             variant: dict[str, Any] = {
                 "artworkId": artwork_id,
+                "forumQualifier": forum_qualifier(alternate),
                 "legacyQualifiers": sorted({
                     item["qualifier"]
                     for item in provenance
@@ -157,11 +182,6 @@ def main() -> None:
 
             if alternate.get("transformBack"):
                 back = alternate["transformBack"]
-                runtime_root = assets / "alternate-art" / "runtime"
-
-                def runtime_relative(value: str) -> Path:
-                    return (runtime_root / value).resolve().relative_to(assets)
-
                 variant["transformBack"] = {
                     "label": back["cardName"],
                     "imageUrls": {
@@ -174,9 +194,67 @@ def main() -> None:
 
         output[card_id] = variants
 
-    if len(output) != EXPECTED_COUNTS["canonicalCards"]:
+    runtime_additions = 0
+    for card in runtime_manifest["cards"]:
+        card_id = str(card["uvsUltraCardId"])
+        if card_id not in output:
+            original: dict[str, Any] = {
+                "artworkId": "original",
+                "label": "Original",
+                "setId": card["original"]["setId"],
+                "cardNumber": card["original"]["cardNumber"],
+            }
+            if card.get("transformBackOriginal"):
+                back = card["transformBackOriginal"]
+                original["transformBack"] = {
+                    "label": "Original Transformed Back",
+                    "setId": back["setId"],
+                    "cardNumber": back["cardNumber"],
+                }
+            output[card_id] = [original]
+
+        for runtime_variant in card.get("variants") or []:
+            qualifier = str(runtime_variant["qualifier"])
+            if qualifier in represented_qualifiers:
+                continue
+            if not SAFE_QUALIFIER.fullmatch(qualifier):
+                raise ValueError(f"invalid runtime qualifier: {qualifier!r}")
+            if qualifier in artwork_ids:
+                raise ValueError(f"duplicate runtime artworkId: {qualifier}")
+            artwork_ids.add(qualifier)
+            runtime_additions += 1
+
+            variant: dict[str, Any] = {
+                "artworkId": qualifier,
+                "forumQualifier": qualifier,
+                "legacyQualifiers": [qualifier],
+                "label": runtime_variant["label"],
+                "setId": card["original"]["setId"],
+                "cardNumber": card["original"]["cardNumber"],
+                "imageUrls": {
+                    "preview": image_url(runtime_relative(runtime_variant["previewPath"])),
+                    "micro": image_url(runtime_relative(runtime_variant["microPath"])),
+                },
+            }
+            if runtime_variant.get("transformBack"):
+                back = runtime_variant["transformBack"]
+                variant["transformBack"] = {
+                    "label": back["cardName"],
+                    "imageUrls": {
+                        "preview": image_url(runtime_relative(back["previewPath"])),
+                        "micro": image_url(runtime_relative(back["microPath"])),
+                    },
+                }
+            output[card_id].append(variant)
+
+    expected_cards = len({
+        *(str(card["uvsUltraCardId"]) for card in catalog["cards"]),
+        *(str(card["uvsUltraCardId"]) for card in runtime_manifest["cards"]),
+    })
+    if len(output) != expected_cards:
         raise ValueError("generated canonical-card count mismatch")
-    if len(artwork_ids) != EXPECTED_COUNTS["uniqueAlternateArtworks"]:
+    expected_alternates = EXPECTED_COUNTS["uniqueAlternateArtworks"] + runtime_additions
+    if len(artwork_ids) != expected_alternates:
         raise ValueError("generated alternate-art count mismatch")
 
     if args.prepare_assets:
