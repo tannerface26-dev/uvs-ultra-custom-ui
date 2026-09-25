@@ -1,5 +1,11 @@
 # Validated Alternate-Art Catalog Handoff
 
+> **Historical implementation record.** This file documents an earlier catalog
+> delivery workflow and includes machine-specific commands. For current extension
+> behavior, use `CARD-IDENTITY-AND-ALTERNATE-ART.md`, the checked-in generator,
+> and the generated allowlist. Do not regenerate published runtime data during a
+> documentation-only task.
+
 ## Artifact
 
 Use:

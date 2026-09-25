@@ -1,5 +1,10 @@
 # Extension Alternate-Art Identity Rules
 
+This is an active review-policy reference. Read it together with
+`CARD-IDENTITY-AND-ALTERNATE-ART.md` before changing catalog generation,
+alternate-art selection, or Forum Code identity. Existing published mappings
+must not be reclassified without explicit approval and regression testing.
+
 ## Core Rule
 
 The extension must never infer an alternate-art relationship from a matching

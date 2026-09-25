@@ -1,5 +1,11 @@
 # TTS Importer Handoff: UVS Ultra Extension Identities
 
+> **External integration contract and historical handoff.** The local repository
+> paths and revision examples below describe the environment at the time of the
+> handoff. The extension is already published; do not change its runtime solely
+> to make this document cleaner. Current extension-side identity behavior is
+> summarized in `CARD-IDENTITY-AND-ALTERNATE-ART.md`.
+
 ## Goal
 
 Update the TTS deck importer and CardDB so Forum Code produced by the Chrome

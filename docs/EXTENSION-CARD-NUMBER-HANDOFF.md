@@ -1,5 +1,11 @@
 # UVS Ultra Extension: Card-Number-Qualified Forum Code Handoff
 
+> **Historical implementation record.** The extension has been published and
+> this handoff is retained for rationale and regression cases. For current
+> behavior, use `CARD-IDENTITY-AND-ALTERNATE-ART.md` and the checked-in
+> implementation. Do not treat planned wording below as authorization to change
+> the published runtime.
+
 ## Goal
 
 Change the Chrome extension's Forum Code output so a TTS import line identifies

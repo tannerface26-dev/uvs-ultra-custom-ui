@@ -3,6 +3,15 @@
 Keep short, reusable lessons here as the extension evolves. Include enough
 context to prevent the same issue from returning.
 
+The root `AGENTS.md` contains the small set of rules that agents must receive in
+every session. This file is the detailed project knowledge base: consult the
+relevant section before changing runtime behavior, and promote only broadly
+applicable, stable rules into `AGENTS.md`.
+
+Current card-identity and alternate-art behavior is summarized in
+`CARD-IDENTITY-AND-ALTERNATE-ART.md`. Files with `HANDOFF` in their names are
+historical implementation records rather than the primary current contract.
+
 ## Security
 
 - Chrome Web Store release packages should use an explicit runtime-file

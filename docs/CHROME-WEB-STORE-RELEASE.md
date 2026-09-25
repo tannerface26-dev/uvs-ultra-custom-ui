@@ -1,5 +1,28 @@
 # +Ultra Online Chrome Web Store Release
 
+## Published baseline protection
+
+The extension is already published. Running verification or updating release
+documentation must not alter the extension runtime, generated catalog,
+`manifest.json` version, or Chrome Web Store listing.
+
+Only prepare a new runtime package when the user explicitly requests a release or
+runtime change. Build output is reproducible and ignored by Git; building the ZIP
+does not itself publish or update the extension.
+
+For agent-driven release work:
+
+1. Read the root `AGENTS.md`, `AI-CONTROLS.md`, and `lessons.md`.
+2. Confirm the task explicitly permits runtime changes.
+3. Review every runtime diff and verify backward compatibility.
+4. Run `scripts/build-release.ps1`; it packages only its explicit allowlist and
+   rejects missing or unexpected archive entries.
+5. Extract and smoke-test the exact generated ZIP in an isolated browser profile.
+6. Stop before Chrome Web Store upload or submission unless that external action
+   was explicitly requested.
+7. After any requested external update, read back the Store state before
+   reporting success.
+
 ## Store identity
 
 - Name: `+Ultra Online`

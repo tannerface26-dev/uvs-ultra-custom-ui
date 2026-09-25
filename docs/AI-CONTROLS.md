@@ -2,6 +2,14 @@
 
 These instructions apply to all AI-assisted work on this project.
 
+The root `AGENTS.md` is the automatically loaded, concise agent policy. This
+document remains the detailed security reference. If the two differ, preserve
+the stricter security requirement and update both documents so they do not drift.
+
+Because the extension is already published, documentation-only or planning work
+must not modify runtime package files, the extension version, generated runtime
+catalog data, or the release allowlist.
+
 ## Primary Requirement
 
 Security is the highest priority. This extension is intended for publication in
