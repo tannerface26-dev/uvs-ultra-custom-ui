@@ -69,6 +69,11 @@ historical implementation records rather than the primary current contract.
 - Repository-hosted art uses `repo/{uvsUltraCardId}-{officialGalleryId}` as its
   Forum Code identity. The TTS importer must resolve this token through its own
   allowlisted catalog; it must never convert untrusted Forum Code into a URL.
+- Public alternate-art identity must be source-neutral. Use
+  `repo/{uvsUltraCardId}-{assetId}` for every repository-hosted alternate,
+  regardless of where it was discovered; retain third-party attribution only in
+  build-time provenance and audit records. Migrate a prior stored namespace by
+  its validated token only when it resolves to exactly one allowlisted variant.
 - Official-gallery names can be mapped automatically only when they have one
   exact normalized CardDB match. Keep missing and ambiguous records out of the
   runtime catalog until reviewed.
@@ -82,6 +87,27 @@ historical implementation records rather than the primary current contract.
 - Every generated alternate-art entry must include an explicit canonical
   Original variant. Otherwise default selection can silently replace ordinary
   deck art with the first alternate.
+- When official-gallery and marketplace records show the same artwork, merge
+  their provenance into one variant and retain every prior qualifier as a
+  legacy alias. Different source crops or resolutions are not distinct art.
+- Marketplace alternate-art audits must paginate the complete, stably sorted
+  result set. TCGplayer's best-match ordering can repeat products between pages;
+  its alphabetic product-name sort produced the complete unique inventory.
+- Parenthetical labels such as Alternate Art, Alternative Art, Full Art Promo,
+  Wedding Promo, and monthly LGS Promo are discovery hints, not identity proof.
+  Promote them only when the marketplace variant and a canonical printing have
+  identical complete mechanics fingerprints and the canonical set/card identity
+  maps unambiguously to Ultra.
+- Set-specific treatments such as Chrome Rare and Autograph Version also require
+  explicit discovery and review; a scanner limited to `Alternate Art` labels can
+  silently omit valid variants.
+- When same-name cards exist across eras, generate review identities from the
+  active CardDB used by the table. A stale JSON export can map a new set variant
+  to an older card with the same base name, as happened with TK802 Heihachi and
+  legacy UVS ID `3320`.
+- TCGplayer transform products use the primary CDN image for the front and
+  `{productId}_1_in_1000x1000.jpg` for the back. Require both images and both
+  Ultra identities before exposing a transform alternate.
 - Art-selector hover is a temporary preview only. Original, Alternate, and
   nested alternate choices should update the large preview on hover, restore
   the saved selection when the pointer leaves, and persist only on click.
@@ -103,6 +129,26 @@ historical implementation records rather than the primary current contract.
 - Search-result card actions open in the site's `#cluetip` element. Its stacking
   level must remain above the hover and locked card previews so the controls stay
   clickable.
+- Full card details opened from a search result load into Colorbox's
+  `#cboxLoadedContent`. In dark mode, give that container the same diagonal
+  black-on-charcoal background as search-result cards and explicitly use white
+  text and links; leave the site's normal light-mode panel unchanged.
+- Card and deck action confirmations use a fixed Messenger list with the classes
+  `messenger-on-top messenger-on-right`. Reposition that container with scoped
+  CSS rather than replacing the site's notification behavior.
+- The search page does not preload `.listing_deck`. Its native current-deck
+  refresh path writes `onthefly.php` into `#onthefly` after card quantities or
+  the selected deck change. A floating deck view should provide that hidden
+  bridge, validate and render a separate visible list, and keep alternate-art
+  menus isolated to `deck.php`.
+- Resolve the initial search-page deck token from the authenticated flat deck
+  list by exact displayed deck name, require one unambiguous same-origin HTTPS
+  `deck.php` match, and cache the validated name/token pair across page reloads.
+  Revalidate site-driven `onthefly.php` updates before replacing that cache.
+- Dynamic modal contrast rules should target deck and folder name links by
+  their stable `.avatar-deck-info` and `.avatar-folder-info` containers. This
+  also covers names inserted after deck or folder creation without recoloring
+  the surrounding controls.
 
 ## Verification
 

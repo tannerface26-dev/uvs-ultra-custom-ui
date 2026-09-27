@@ -61,6 +61,48 @@
         return true;
     }
 
+    function addAvailabilityBadge(card) {
+        if (card.querySelector(".uvsu-card-art-available")) {
+            return;
+        }
+
+        const quantity = card.querySelector('[id^="number_card_"]');
+        const quantityBadge = quantity?.closest(".badge");
+
+        if (!quantityBadge) {
+            return;
+        }
+
+        const badge = document.createElement("span");
+        badge.className = quantityBadge.className;
+        badge.classList.add("uvsu-card-art-available");
+        badge.textContent = "A";
+        badge.title = "Alternate art available";
+        badge.setAttribute("aria-label", "Alternate art available");
+        quantityBadge.insertAdjacentElement("afterend", badge);
+    }
+
+    function enhanceDeckCards() {
+        document
+            .querySelectorAll(".listing_deck .card-list")
+            .forEach((card) => {
+                const context = getCardContext(card);
+
+                if (
+                    !context ||
+                    cardArt.getVariants(context.cardId).length < 2
+                ) {
+                    return;
+                }
+
+                addAvailabilityBadge(card);
+                applySelection(
+                    context,
+                    cardArt.getSelection(context.cardId, context.deckId)
+                );
+            });
+    }
+
     function applySelection(context, variant) {
         if (!context || !variant) {
             return;
@@ -303,22 +345,12 @@
         );
     }
 
-    document
-        .querySelectorAll(".listing_deck .card-list")
-        .forEach((card) => {
-            const context = getCardContext(card);
+    enhanceDeckCards();
 
-            if (!context || cardArt.getVariants(context.cardId).length < 2) {
-                return;
-            }
-
-            applySelection(
-                context,
-                cardArt.getSelection(context.cardId, context.deckId)
-            );
-        });
-
-    const menuObserver = new MutationObserver(enhanceActionMenu);
+    const menuObserver = new MutationObserver(() => {
+        enhanceActionMenu();
+        enhanceDeckCards();
+    });
 
     menuObserver.observe(
         document.body,

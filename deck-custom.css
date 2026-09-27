@@ -6,6 +6,10 @@
     object-fit: fill;
 }
 
+.listing_deck .uvsu-card-art-available {
+    margin-right: 4px;
+}
+
 .uvsu-card-art-selector {
     display: flex;
     flex-wrap: wrap;

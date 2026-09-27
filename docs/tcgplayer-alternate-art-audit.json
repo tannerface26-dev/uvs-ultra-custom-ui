@@ -1,0 +1,3475 @@
+{
+  "searchProductCount": 548,
+  "exactAlternateArtCount": 534,
+  "representedProductIdCount": 448,
+  "unrepresentedProductIdCount": 86,
+  "records": [
+    {
+      "productId": 681197,
+      "productName": "Battra Arrives (Alternate Art)",
+      "cardName": "Battra Arrives",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Battra Arrives Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> <COMMIT>: After your rival plays an ability on a foundation, cancel that ability and seal that foundation.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 228/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Order",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681197_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12577",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 589206,
+      "productName": "Bertolt Hoover, Living Weapon // Bertolt, Colossus Titan Advancing (Alternate Art)",
+      "cardName": "Bertolt Hoover, Living Weapon // Bertolt, Colossus Titan Advancing",
+      "setName": "Attack On Titan: Origins of Power",
+      "setUrlName": "Attack On Titan Origins of Power",
+      "productUrlName": "Bertolt Hoover Living Weapon Bertolt Colossus Titan Advancing Alternate Art",
+      "rarityName": "CH-R",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>: Draw 2 cards and discard 2 cards. If the discarded cards are the same type, this attack gets +2 or -2 damage.<br>\n<br><strong>Response</strong>: At the start of the End Phase, transform Bertolt Hoover, Living Weapon. Each player chooses 3 foundations in their stage and sacrifices the rest. Only playable if a player has 9 or more foundations.<br>\n<br><br>\"Your attacks get +2 damage and you may remove them after they resolve.<br>\n<br><strong>Response</strong>: After you play an attack, draw 1 card and your rival commits 1 foundation.\"",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 11/08/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-11-08T00:00:00Z",
+        "number": "2a/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Warrior"
+        ],
+        "rarityDbName": "Character Rare",
+        "vitality": "31",
+        "flavorText": "",
+        "resource": [
+          "Death",
+          "Fire"
+        ],
+        "handSize": "5"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/589206_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11346",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 542431,
+      "productName": "Big Freakin' Explosion (Alternate Art)",
+      "cardName": "Big Freakin' Explosion",
+      "setName": "Challenger Series: Vox Machina and Mighty Nein",
+      "setUrlName": "Challenger Series Vox Machina and Mighty Nein",
+      "productUrlName": "Big Freakin Explosion Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Spend 1 momentum, mill 3: This attack gets +1 damage for each attack in your discard pile. If you milled 3 attacks this way, you lose health equal to half this attack's damage (rounded down) after it resolves.",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 03/21/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-03-21T00:00:00Z",
+        "number": "CR-MN 5/21",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "High",
+        "keywords": [
+          "Ally • Ranged • Spell • Tech"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Death",
+          "Fire"
+        ],
+        "handSize": null,
+        "attackSpeed": "5",
+        "blockZone": "high"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/542431_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10617",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 666630,
+      "productName": "BLOODSUCKING UNIVERSE (Alternate Art)",
+      "cardName": "BLOODSUCKING UNIVERSE",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "BLOODSUCKING UNIVERSE Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>RESPONSE</strong>: After this attack deals damage, gain 2 health. If you have 2 or more counters on your character, gain 4 health instead.",
+        "attackDamage": "5",
+        "releaseDate": "2025-11-28T00:00:00Z",
+        "number": "GGS01 94/85",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Tension, Throw"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": "",
+        "resource": [
+          "All",
+          "Order"
+        ],
+        "attackSpeed": "3",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666630_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12266",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648011,
+      "productName": "Cammy, Covert Chameleon (Alternate Art)",
+      "cardName": "Cammy, Covert Chameleon",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Cammy Covert Chameleon Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "Enhance <COMMIT>: This attack gets +2 speed. Flip 1 rival foundation.<br>\n <br>\n Response [Tenacious]: After this backup is attacked, check 6. If you pass, flip and commit this card.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 219/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "3",
+        "flavorText": null,
+        "resource": [
+          "Earth"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648011_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12244",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 589230,
+      "productName": "Cart Titan Rush (Alternate Art)",
+      "cardName": "Cart Titan Rush",
+      "setName": "Attack On Titan: Origins of Power",
+      "setUrlName": "Attack On Titan Origins of Power",
+      "productUrlName": "Cart Titan Rush Alternate Art",
+      "rarityName": "UR",
+      "customAttributes": {
+        "description": "",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 11/08/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-11-08T00:00:00Z",
+        "number": "45/186",
+        "difficulty": "5",
+        "check": "4",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Titan"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Ultra Rare",
+        "flavorText": "\"All of you!! Kill him!!\"<br>\n<br>\n—Zeke Yeager",
+        "resource": [
+          "Chaos"
+        ],
+        "attackSpeed": "5",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/589230_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11401",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 587397,
+      "productName": "Celinka2 (Alternate Art)",
+      "cardName": "Celinka2",
+      "setName": "Seventh Cross",
+      "setUrlName": "Seventh Cross",
+      "productUrlName": "Celinka2 Alternate Art",
+      "rarityName": "P",
+      "customAttributes": {
+        "description": "This card counts as 2 characters in your staging area for card effects.\r\n<br><br>\r\n<strong>E</strong> Remove 2 attack cards from your discard pile: If your attack deals damage, your opponent destroy 1 foundation and loses vitality equal to its printed block modifier. If it has no block modifier, add the top card of your deck to your momentum.",
+        "attackDamage": null,
+        "releaseDate": "2019-05-24T00:00:00Z",
+        "number": "2",
+        "difficulty": "3",
+        "check": "6",
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": "0",
+        "rarityDbName": "Promo",
+        "vitality": "29",
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Fire",
+          "Good"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/587397_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 549383,
+      "productName": "Cheerleader (Alternate Art)",
+      "cardName": "Cheerleader",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Cheerleader Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> Remove, discard 1 momentum: After an attack is played, it gains Flash. <\r\nbr><strong>Hagakure First Form Flip</strong>: Both players build the top card of their deck face down. Only playable if your rival has 8 or fewer foundations.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "7/11",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Good",
+          "Water"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549383_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9556",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630682,
+      "productName": "Colossal Confrontation // Seeking Relief  (Alternate Art)",
+      "cardName": "Colossal Confrontation // Seeking Relief",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Colossal Confrontation Seeking Relief Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: Ruin 3. Build 1 card from your hand face down. Search your deck for 1 card and add it to your hand.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\nFirst Form Flip 1 foundation: Commit 1 rival foundation.",
+        "attackDamage": "10",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "223/189",
+        "difficulty": "9",
+        "check": "4",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Breaker: 1 •  Shift •  Titan •  Unique"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Order"
+        ],
+        "handSize": null,
+        "attackSpeed": "7",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630682_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11933",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11933-1164",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 630678,
+      "productName": "Command of the Founder (Alternate Art)",
+      "cardName": "Command of the Founder",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Command of the Founder Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong> <COMMIT>: Add 1 Titan card from your card pool to your hand.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "219/189",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Unique •  Titan"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Fire"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630678_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11968",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11968-1174",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 549378,
+      "productName": "Creeping Vine Eruption (Alternate Art)",
+      "cardName": "Creeping Vine Eruption",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Creeping Vine Eruption Alternate Art",
+      "rarityName": "C-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance:</strong> If this attack deals less than 5 damage, add 1 copy of “Faith’s Shield” from your discard pile to your hand.",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "2/11",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Throw"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Common",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Life",
+          "Water"
+        ],
+        "handSize": null,
+        "attackSpeed": "2",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549378_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9421",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648024,
+      "productName": "Cynthia Utrom, Veiled Villain (Alternate Art)",
+      "cardName": "Cynthia Utrom, Veiled Villain",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Cynthia Utrom Veiled Villain Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "Enhance [Your turn] <COMMIT>: Your rival discards 1 card.<br>\n <br>\n Response [Tenacious]: After this backup is attacked, your rival removes the top 2 cards of their deck.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 232/186",
+        "difficulty": "5",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "4",
+        "flavorText": null,
+        "resource": [
+          "Evil",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648024_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12164",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 643026,
+      "productName": "Dance of the Phoenix (Alternate Art)",
+      "cardName": "Dance of the Phoenix",
+      "setName": "Challenger Series: Street Fighter 6",
+      "setUrlName": "Challenger Series Street Fighter 6",
+      "productUrlName": "Dance of the Phoenix Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> [Once per turn]: After your attack is blocked, your rival freezes 1 committed foundation. If your rival has 10 or more foundations, commit and freeze 1 rival foundation.<br>\n<br>\n<em>(Unique—While this card is in your stage, if there are 2 or more copies of it in your stage, sacrifice 1 of them.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 07/18/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-07-18T00:00:00Z",
+        "number": "SF602 29/21",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "keywords": [
+          "Unique •  Kick"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": null,
+        "resource": [
+          "Water"
+        ],
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/643026_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12064",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12064-735",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 553642,
+      "productName": "Death From Above (Alternate Art)",
+      "cardName": "Death From Above",
+      "setName": "Challenger Series: Godzilla",
+      "setUrlName": "Challenger Series Godzilla",
+      "productUrlName": "Death From Above Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Remove 1 attack from your discard pile: This attack gets +Xdamage. X equals the removed attack's printed damage.<br>\r\n<strong>Enhance</strong>: If you have 8 or more cards in your removed pile, draw 2 cards.",
+        "attackDamage": "3",
+        "releaseDate": "2024-06-21T00:00:00Z",
+        "number": "CHA03-KRM 6/22",
+        "difficulty": "6",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Slam"
+        ],
+        "blockModifier": "4",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "All",
+          "Void"
+        ],
+        "handSize": null,
+        "attackSpeed": "6",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/553642_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "1643",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 609505,
+      "productName": "Determined Cut (Alternate Art)",
+      "cardName": "Determined Cut",
+      "setName": "Challenger Series: Solo Leveling",
+      "setUrlName": "Challenger Series Solo Leveling",
+      "productUrlName": "Determined Cut Alternate Art",
+      "rarityName": "UC-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After your rival plays an enhance ability, they lose 1 health.<br>\n<br><em>(Powerful: 3—<strong>Enhance</strong> Spend 1 or more momentum: This attack gets +3 damage for each momentum spent to pay the cost of this ability.)</em>",
+        "attackDamage": "3",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 01/10/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-01-10T00:00:00Z",
+        "number": "SL01 5/20",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Powerful: 3, Weapon, XP"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Uncommon",
+        "flavorText": "",
+        "resource": [
+          "Death"
+        ],
+        "attackSpeed": "4",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/609505_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11576",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11576-2160",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 630675,
+      "productName": "Devastating Loss (Alternate Art)",
+      "cardName": "Devastating Loss",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Devastating Loss Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Sacrifice: Destroy 1 rival asset or backup.<br>\r\n<br><br>\r\n<em>\"Armin . . . you remember now too, don't you? When Eren . . . came to visit us.\"<br>\r\n<br>—Mikasa Ackerman,/em>",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "216/189",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630675_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11959",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11959-1182",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 542433,
+      "productName": "Duplicitious Attack (Alternate Art)",
+      "cardName": "Duplicitious Attack",
+      "setName": "Challenger Series: Vox Machina and Mighty Nein",
+      "setUrlName": "Challenger Series Vox Machina and Mighty Nein",
+      "productUrlName": "Duplicitious Attack Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Combo Enhance</strong>: Your next attack gains <strong>Echo</strong>.",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 03/21/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-03-21T00:00:00Z",
+        "number": "CR-MN 6/21",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "Low",
+        "keywords": [
+          "Ally • Spell • Combo (Spell)"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Fire",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "mid"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/542433_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10618",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 620490,
+      "productName": "Dwueth'var, Star Razor (Alternate Art)",
+      "cardName": "Dwueth'var, Star Razor",
+      "setName": "Critical Role: Heroes of Exandria",
+      "setUrlName": "Critical Role Heroes of Exandria",
+      "productUrlName": "Dwuethvar Star Razor Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "If your character is a Champion, this card gets -1 difficulty.<br>\n<br><br>\n<strong>Enhance</strong> <COMMIT>: Seal 1 rival foundation.<br>\n<br><br>\n<strong>Response</strong> <COMMIT>: After you take 5 or more damage from an attack, your rival must play a non-attack card as their next form or pass. They may lose 6 health to cancel this ability.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 03/07/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-03-07T00:00:00Z",
+        "number": "177/211",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Asset"
+        ],
+        "keywords": [
+          "Unique • Vestige • Weapon"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Order",
+          "Void"
+        ],
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/620490_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 709905,
+      "productName": "Eddy Gordo (Alternate Art)",
+      "cardName": "Eddy Gordo",
+      "setName": "TEKKEN 8",
+      "setUrlName": "TEKKEN 8",
+      "productUrlName": "Eddy Gordo Alternate Art",
+      "rarityName": "CH-C-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>[Tenacious]: Your attack gets +1 damage for each attack in your card pool. If it's completely blocked, draw 1 card.<br>\r\n<strong>Form</strong> Rest: Choose 1 card in your card pool. It does not count toward progressive difficulty this turn.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/14/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-08-14T00:00:00Z",
+        "number": "TK802 188/185",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Common Alternate Art",
+        "vitality": "30",
+        "flavorText": null,
+        "resource": [
+          "Good",
+          "Life",
+          "Water"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709905_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 589250,
+      "productName": "Eren Yeager, Humanity's Hope // Eren, Attack Titan Advancing (Alternate Art)",
+      "cardName": "Eren Yeager, Humanity's Hope // Eren, Attack Titan Advancing",
+      "setName": "Attack On Titan: Origins of Power",
+      "setUrlName": "Attack On Titan Origins of Power",
+      "productUrlName": "Eren Yeager Humanitys Hope Eren Attack Titan Advancing Alternate Art",
+      "rarityName": "CH-UR",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> [Your attack] Mill 3: Your attack gets +1 speed for each Fury card milled this way and +1 damage for each Titan card milled this way.<br>\n<br><strong>Response</strong>: After an attack deals damage, if you have 25 or more cards in your discard pile, add 1 Titan card from your discard pile to your hand and transform Eren Yeager, Humanity's Hope.<br>\n<br><br>\"Your Fury and/or Titan attacks get +4 damage.<br>\n<br><strong>Enhance</strong> [Commit Symbol]: Add 1 card from your stage to your hand. The next attack you try to play gets -3 difficulty and +3 speed.\"",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 11/08/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-11-08T00:00:00Z",
+        "number": "5a/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Survey Corps"
+        ],
+        "rarityDbName": "Character Ultra Rare",
+        "vitality": "30",
+        "flavorText": "",
+        "resource": [
+          "Fire",
+          "Order"
+        ],
+        "handSize": "6"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/589250_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11318",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 563330,
+      "productName": "Eren Yeager, Promising Scout // Attack Titan, Ferocious Challenger (Alternate Art)",
+      "cardName": "Eren Yeager, Promising Scout // Attack Titan, Ferocious Challenger",
+      "setName": "Challenger Series: Attack on Titan: Battle for Humanity",
+      "setUrlName": "Challenger Series Attack on Titan Battle for Humanity",
+      "productUrlName": "Eren Yeager Promising Scout Attack Titan Ferocious Challenger Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Eren Yeager, Promising Scout</strong><br>\r\n<br><strong>Enhance</strong> [Your turn] Flip 1 foundation: This attack gets +1 speed and +1 damage.<br>\r\n<br><strong>Form</strong>: If you have 8 or more face down foundations, transform Eren Yeager, Promising Scout.<br>\r\n<br><strong>Attack Titan, Ferocious Challenger</strong><br>\r\n<br>After this character transforms into Attack Titan, Ferocious Challenger, draw 2 cards.<br>\r\n<br><strong>Enhance</strong> Sacrifice 1 face down foundation: This attack gets +3 damage and +3 speed.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 8/16/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-08-16T00:00:00Z",
+        "number": "CS1 1/22",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Survey Corps • Titan"
+        ],
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "32",
+        "flavorText": "",
+        "resource": [
+          "Air",
+          "Fire"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/563330_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10964",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/10964-2727",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 630653,
+      "productName": "Eren Yeager, Usurper // Attack Titan, Finale (Alternate Art)",
+      "cardName": "Eren Yeager, Usurper // Attack Titan, Finale",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Eren Yeager Usurper Attack Titan Finale Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> [Your attack] Mill 3: Add 1 Fury or Titan card milled this way to your momentum.<br>\r\n<br><br>\r\n<strong>Response</strong>: After an attack deals damage, your rival commits 1 foundation. If you have cycled this game, draw 2 cards and transform Eren Yeager, Usurper.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\n\"Your Fury and/or Titan attacks gain Stun: 1 and get +3 damage.<br>\r\n<br><br>\r\n<strong>Enhance</strong> [Once per turn] Spend 1 momentum: Add 1 Titan card from your discard pile to your hand.\"",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "194/189",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Survey Corps •  Titan"
+        ],
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "36",
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Fire"
+        ],
+        "handSize": "5",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630653_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11829",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11829-1242",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 549384,
+      "productName": "Eri (Alternate Art)",
+      "cardName": "Eri",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Eri Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "While this card is in your stage, at the start of your End Phase, ready 1 non-Unique asset or foundation that was not readied during this turn's Combat Phase.\r\n<br><strong>Response</strong> Remove, spend 1 momentum: Before the Damage Step of your rival's attack, reduce its damage to your current health minus 1 (min.1).",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "9/11",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Asset"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Ally • Unique"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Evil",
+          "Good",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549384_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10084",
+      "cardDbType": "Asset",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 549380,
+      "productName": "Faith's Shield (Alternate Art)",
+      "cardName": "Faith's Shield",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Faiths Shield Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Response Remove:</strong> After you block with this card, this attack deals no damage. Flip this attack after it resolves.\r\n<br><strong>Enhance</strong> Destroy: This Charge or Stun attack gets -2 damage.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "4/11",
+        "difficulty": "2",
+        "check": "4",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Life",
+          "Water"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549380_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9468",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630666,
+      "productName": "Falco's Jaw Titan Attacks! // Falco's Jaw Titan (Alternate Art)",
+      "cardName": "Falco's Jaw Titan Attacks! // Falco's Jaw Titan",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Falcos Jaw Titan Attacks Falcos Jaw Titan Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: Your next attack this turn gets +4 speed, and you may change its zone to <HIGH>.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\n<strong>Enhance</strong> Lose 1 stamina: This attack gets +1 or -1 speed.<br>\r\n<br><br>\r\n<strong>Enhance</strong> Lose 2 stamina: Change this attack's zone to <HIGH>.",
+        "attackDamage": "6",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "207/189",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Shift •  Titan"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air"
+        ],
+        "handSize": null,
+        "attackSpeed": "5",
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630666_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11936",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11936-1206",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 630679,
+      "productName": "Falling Titans // Zeke's Dream Becoming Real (Alternate Art)",
+      "cardName": "Falling Titans // Zeke's Dream Becoming Real",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Falling Titans Zekes Dream Becoming Real Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> Sacrifice 1 backup: After this attack resolves, add this card to your hand.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\n<strong>Enhance</strong> Add this card to your hand: Choose 1 backup. It gains 10 stamina.",
+        "attackDamage": "6",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "220/189",
+        "difficulty": "6",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Shift •  Ranged •  Titan •  Unique"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": "5",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630679_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11973",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11973-1172",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 609523,
+      "productName": "Fateful Decision (Alternate Art)",
+      "cardName": "Fateful Decision",
+      "setName": "Challenger Series: Solo Leveling",
+      "setUrlName": "Challenger Series Solo Leveling",
+      "productUrlName": "Fateful Decision Alternate Art",
+      "rarityName": "C-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> <COMMIT>: This attack gets -2 speed.<br>\n<br><strong>Enhance</strong> <COMMIT>: After you play a block, it gains Breaker: 1.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 01/10/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-01-10T00:00:00Z",
+        "number": "SL01 14/20",
+        "difficulty": "1",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Common",
+        "flavorText": "",
+        "resource": [
+          "Death"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/609523_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11585",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11585-2125",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 681203,
+      "productName": "Final Wars (Alternate Art)",
+      "cardName": "Final Wars",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Final Wars Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "While this card is in your stage, all attacks get +1 damage.<br><strong>Response</strong> [Once per turn]: After your attack deals damage, draw 1 card.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 234/186",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "keywords": [
+          "Unique"
+        ],
+        "blockModifier": "4",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Infinity"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681203_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12514",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630655,
+      "productName": "Floch Forster, Yeagerist Leader (Alternate Art)",
+      "cardName": "Floch Forster, Yeagerist Leader",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Floch Forster Yeagerist Leader Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> [Your Attack] Mill 2 cards: Build 1 backup with difficulty 2 or less from among cards milled this way.<br>\r\n<br><br>\r\nFirst <strong>Enhance</strong> <COMMIT>: If you have 3 or more backups, double this attack's damage or reduce this attack's damage to 0.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "196/189",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Survey Corps"
+        ],
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "28",
+        "flavorText": null,
+        "resource": [
+          "Fire",
+          "Life"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630655_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11855",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11855-1234",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 648028,
+      "productName": "Flurry of Blows (Alternate Art)",
+      "cardName": "Flurry of Blows",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Flurry of Blows Alternate Art",
+      "rarityName": "C-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After you play this attack's Powerful ability, it gets +2 speed.  (Powerful: 3—Enhance Spend 1 or more momentum: This attack gets +3 damage for each momentum spent to pay the cost of this ability.)",
+        "attackDamage": "3",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 236/186",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Powerful: 3 • Punch"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Common",
+        "flavorText": null,
+        "resource": [
+          "Fire"
+        ],
+        "attackSpeed": "5",
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648028_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12139",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648016,
+      "productName": "Genghis Frog, Temperamental Toad (Alternate Art)",
+      "cardName": "Genghis Frog, Temperamental Toad",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Genghis Frog Temperamental Toad Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "Your attacks get +3 damage.<br>\n <br>\n <strong>Response</strong>: After this backup is attacked, your rival loses 3 health.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 224/186",
+        "difficulty": "5",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "5",
+        "flavorText": null,
+        "resource": [
+          "Fire"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648016_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12183",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681198,
+      "productName": "Godzilla vs Biollante (Alternate Art)",
+      "cardName": "Godzilla vs Biollante",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Godzilla vs Biollante Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> <COMMIT>: Clear 1 face down card from your card pool and draw 1 card.<br><strong> Deadlock Enhance</strong> [Your attack]: Your rival adds the top card of their deck to their card pool.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 229/186",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Life",
+          "Water"
+        ],
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681198_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12527",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681199,
+      "productName": "Godzilla vs Gigan (Alternate Art)",
+      "cardName": "Godzilla vs Gigan",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Godzilla vs Gigan Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> [Tenacious]: Add this card to your hand or the top of your deck.<br><strong>Response</strong>: After this card is removed, add 1 Power token to your stage.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 230/186",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "All",
+          "Evil"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681199_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12582",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681200,
+      "productName": "Godzilla vs Mechagodzilla (Alternate Art)",
+      "cardName": "Godzilla vs Mechagodzilla",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Godzilla vs Mechagodzilla Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "Mechagodzilla <strong>Response</strong>: After you check this card, remove it with a Kiryu counter on it.<br><strong>Response</strong> <COMMIT>: After you block with a card, return it to your hand.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 231/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "keywords": [
+          "Unique"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "All",
+          "Good",
+          "Order"
+        ],
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681200_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12496",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681201,
+      "productName": "Godzilla vs SpaceGodzilla (Alternate Art)",
+      "cardName": "Godzilla vs SpaceGodzilla",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Godzilla vs SpaceGodzilla Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Commit [Rival's turn]: Your rival's next check gets -2. Failing that check does not end the Combat Phase.<br><strong>Enhance</strong> Commit [Your turn]: Your next check gets +2.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 232/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Evil",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681201_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12583",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681202,
+      "productName": "Godzilla's First Emergence (Alternate Art)",
+      "cardName": "Godzilla's First Emergence",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Godzillas First Emergence Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After you play this card, add 1 Power token to your stage.<br><strong>Enhance</strong>: Your attack with printed difficulty 5 or greater gets +1 speed.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 233/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Fire",
+          "Water"
+        ],
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681202_in_1000x1000.jpg",
+      "imageDownloaded": false,
+      "imageDownloadError": "HTTP Error 403: Forbidden",
+      "uvsUltraCardId": "12457",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 609509,
+      "productName": "Grasp for Survival (Alternate Art)",
+      "cardName": "Grasp for Survival",
+      "setName": "Challenger Series: Solo Leveling",
+      "setUrlName": "Challenger Series Solo Leveling",
+      "productUrlName": "Grasp for Survival Alternate Art",
+      "rarityName": "UC-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After you block with this card, gain 2 health.<br>\n<br><em>(Throw—If this attack is completely blocked, it deals half damage, rounded up, during the Damage Step.)</em>",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 01/10/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-01-10T00:00:00Z",
+        "number": "SL01 7/20",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Throw, XP"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Uncommon",
+        "flavorText": "",
+        "resource": [
+          "Life"
+        ],
+        "attackSpeed": "1",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/609509_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11578",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11578-2152",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 666628,
+      "productName": "GUN FLAME FEINT (Alternate Art)",
+      "cardName": "GUN FLAME FEINT",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "GUN FLAME FEINT Alternate Art",
+      "rarityName": "UC-ALT",
+      "customAttributes": {
+        "description": "<strong>RESPONSE</strong>: After this attack is not blocked, your next check to play a card gets +1.",
+        "attackDamage": "4",
+        "releaseDate": "2025-11-28T00:00:00Z",
+        "number": "GGS01 107/85",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Tension, Ranged, Spell"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Uncommon",
+        "flavorText": "",
+        "resource": [
+          "Chaos"
+        ],
+        "attackSpeed": "3",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666628_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12261",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648026,
+      "productName": "Hang Ten (Alternate Art)",
+      "cardName": "Hang Ten",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Hang Ten Alternate Art",
+      "rarityName": "UC-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After this attack receives a speed bonus, if its speed is 10 or greater, draw 1 card and ready 1 foundation that hasn't been readied this Combat Phase.<br>\n <br>\n <em>(EX: 2—Enhance Spend 1 or more momentum: This attack gets +2 speed for each momentum spent to pay the cost of this ability.)</em>",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 234/186",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "EX: 2 • Charge • Kick"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Uncommon",
+        "flavorText": null,
+        "resource": [
+          "Air"
+        ],
+        "attackSpeed": "6",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648026_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12068",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630683,
+      "productName": "Hange's Last Stand (Alternate Art)",
+      "cardName": "Hange's Last Stand",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Hanges Last Stand Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "If you have 10 or less health or your rival has cycled this game, this attack gets -3 difficulty.<br>\r\n<br><br>\r\n<strong>Response</strong> [Card Pool]: At the start of the End Phase, build this card face down.<br>\r\n<br><br>\r\n<em>\"Erwin . . . ?\"<br>\r\n<br>—Hange Zoë</em>",
+        "attackDamage": "6",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "224/189",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Stun: 1 •  Ranged •  Weapon"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Order"
+        ],
+        "handSize": null,
+        "attackSpeed": "3",
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630683_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11924",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11924-1160",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 542442,
+      "productName": "Hostile Introduction (Alternate Art)",
+      "cardName": "Hostile Introduction",
+      "setName": "Challenger Series: Vox Machina and Mighty Nein",
+      "setUrlName": "Challenger Series Vox Machina and Mighty Nein",
+      "productUrlName": "Hostile Introduction Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "After this card enters your discard pile during the Enhance Step, your rival loses 1 health. This effect cannot reduce your rival's health below 1.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 03/21/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-03-21T00:00:00Z",
+        "number": "CR-MN 14/21",
+        "difficulty": "0",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Mighty Nein Breaker: 2"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Death",
+          "Void"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "mid"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/542442_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10626",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 709927,
+      "productName": "Hwoarang (Alternate Art)",
+      "cardName": "Hwoarang",
+      "setName": "TEKKEN 8",
+      "setUrlName": "TEKKEN 8",
+      "productUrlName": "Hwoarang Alternate Art",
+      "rarityName": "CH-R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Rest: Clear 1 Kick card from your card pool.<br>\r\n<strong>Enhance</strong> [Tenacious] Mill 2: This attack gets +2 speed.<br>\r\n<strong>Enhance</strong> [Once per turn, Tenacious]: Ready this card. OnlyPlayable if you have cycled this game.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/14/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-08-14T00:00:00Z",
+        "number": "TK802 190/185",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Rare Alternate Art",
+        "vitality": "22",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Fire",
+          "Life"
+        ],
+        "handSize": "7",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709927_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 549377,
+      "productName": "Ibara Shiozaki (Alternate Art)",
+      "cardName": "Ibara Shiozaki",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Ibara Shiozaki Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance:</strong> This attack gets -1 damage. Your next attack this turn gets +3 damage.\r\n<br><strong>Enhance [Once per turn]:</strong> Your next Low attack ignores progressive difficulty.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "1/11",
+        "difficulty": "6",
+        "check": "6",
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "1",
+          "B • Student"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "19",
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Life",
+          "Water"
+        ],
+        "handSize": "7",
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549377_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9420",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 549385,
+      "productName": "Instant Shining Flash (Alternate Art)",
+      "cardName": "Instant Shining Flash",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Instant Shining Flash Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Flip 1 foundation: The next card you attempt to play this turn gets -1 difficulty.\r\n<br><strong>Response</strong>: After you play this card, your rival discards 1 momentum.",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "10/11",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Charge • Ranged • Weapon"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Earth",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549385_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9325",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 549382,
+      "productName": "Invisible Infiltration (Alternate Art)",
+      "cardName": "Invisible Infiltration",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Invisible Infiltration Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>: This attack gets +1 damage for every 4 foundations in your rival’s stage. \r\n<br><strong>Enhance</strong>: Remove 1 foundation from either player’s stage. After this attack resolves, the owner of the removed foundation builds it from their removed from game pile face up.",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "6/11",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Hagakure Breaker: 2"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Good",
+          "Water"
+        ],
+        "handSize": null,
+        "attackSpeed": "3",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549382_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9622",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 585052,
+      "productName": "Izuku Midoriya, On the Move (Alternate Art)",
+      "cardName": "Izuku Midoriya, On the Move",
+      "setName": "Challenger Series: My Hero Academia - Dark Hero Arc",
+      "setUrlName": "Challenger Series My Hero Academia Dark Hero Arc",
+      "productUrlName": "Izuku Midoriya On the Move Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong> Commit X foundations: Transform this character. X equals 3 minus the number of face down cards in your card pool (X may equal 0).<br>\r\n<br>\r\n<br><strong>Enhance</strong> Commit 1 foundation: This attack gets +3 or -3 speed.<br>\r\n<br>\r\n<br><strong>Response</strong> [Commit symbol], Discard 1 Vestige card: Before this attack's Block Step, reduce its damage to 1.",
+        "attackDamage": null,
+        "releaseDate": "2024-10-04T00:00:00Z",
+        "number": "MHA08 1/20a",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "29",
+        "flavorText": "",
+        "resource": [
+          "Air",
+          "Good",
+          "Life",
+          "Void",
+          "Water"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/585052_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11226",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11226-2709",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 585054,
+      "productName": "Izuku Midoriya, Quirks Unleashed (Alternate Art)",
+      "cardName": "Izuku Midoriya, Quirks Unleashed",
+      "setName": "Challenger Series: My Hero Academia - Dark Hero Arc",
+      "setUrlName": "Challenger Series My Hero Academia Dark Hero Arc",
+      "productUrlName": "Izuku Midoriya Quirks Unleashed Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong>: Transform this character.<br>\r\n<br>\r\n<br><strong>Form</strong> Commit 2 foundations: Your next attack gets +3 speed and +3 damage.<br>\r\n<br>\r\n<br><strong>Response</strong> [Commit symbol]: After your rival plays an attack, reduce its speed to 0 and draw 1 card. Skip that attack's <strong>Enhance</strong> Step.",
+        "attackDamage": null,
+        "releaseDate": "2024-10-04T00:00:00Z",
+        "number": "MHA08 1/20b",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "29",
+        "flavorText": "",
+        "resource": [
+          "Air",
+          "Good",
+          "Life",
+          "Void",
+          "Water"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/585054_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11227",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 180709,
+      "productName": "Ken** (Alternate Art)",
+      "cardName": "Ken**",
+      "setName": "Street Fighter vs. Darkstalkers",
+      "setUrlName": "Street Fighter vs Darkstalkers",
+      "productUrlName": "Ken Alternate Art",
+      "rarityName": "UR",
+      "customAttributes": {
+        "description": "<strong>E</strong> Remove the top 2 cards of your deck: Your printed\r\n4 or higher difficulty attack gets +1 speed and\r\n+3 damage for each attack removed this way.\r\n<br><strong>E</strong> Remove the top 2 cards of your deck: If this attack\r\nshares a name with a card in your removed from\r\ngame pile, draw 2 cards.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item and will ship after 11/16/2018.",
+        "releaseDate": "2018-11-16T00:00:00Z",
+        "number": "37",
+        "difficulty": "6",
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": "0",
+        "rarityDbName": "Ultra Rare",
+        "vitality": "21",
+        "flavorText": null,
+        "resource": [
+          "All",
+          "Fire",
+          "Void"
+        ],
+        "handSize": "7",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/180709_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 666625,
+      "productName": "KICK START MY HEART (Alternate Art)",
+      "cardName": "KICK START MY HEART",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "KICK START MY HEART Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "This card gets -1 difficulty if you've played a Roman Cancel ability this turn.<br><br>\n<strong>ENHANCE</strong>: This non-Throw attack gains Echo.",
+        "releaseDate": "2025-11-28T00:00:00Z",
+        "number": "GGS01 106/85",
+        "difficulty": "4",
+        "check": "4",
+        "cardType": [
+          "Action"
+        ],
+        "keywords": [
+          "Charge"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": "",
+        "resource": [
+          "Air"
+        ],
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666625_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12290",
+      "cardDbType": "Action",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 709941,
+      "productName": "King (Alternate Art)",
+      "cardName": "King",
+      "setName": "TEKKEN 8",
+      "setUrlName": "TEKKEN 8",
+      "productUrlName": "King Alternate Art",
+      "rarityName": "CH-R-ALT",
+      "customAttributes": {
+        "description": "Each Throw attack you try to play ignores progressive difficulty if the preceding card in your card pool is a Throw attack with a different name.<br>\r\n<strong>Response</strong>: After you play a throw attack, gain 2 health. Then if you are at maximum health, that attack gets +2 speed.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/14/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-08-14T00:00:00Z",
+        "number": "TK802 193/185",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Rare Alternate Art",
+        "vitality": "30",
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Good",
+          "Life"
+        ],
+        "handSize": "5",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709941_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": null,
+      "cardDbType": null,
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 647986,
+      "productName": "Leatherhead, Eager Expat (Alternate Art)",
+      "cardName": "Leatherhead, Eager Expat",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Leatherhead Eager Expat Alternate Art",
+      "rarityName": "CH-C-ALT",
+      "customAttributes": {
+        "description": "First Form: Add the top card of your rival's deck to their card pool face down. If they have 10 or more foundations, add the top 2 cards of their deck to their card pool face down instead.  Response Discard 1 card: After an attack is not blocked, it gets +1 or -1 damage for each card in your rival's card pool.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 194/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Mutant"
+        ],
+        "rarityDbName": "Character Common Alternate Art",
+        "vitality": "30",
+        "flavorText": null,
+        "resource": [
+          "Fire",
+          "Water"
+        ],
+        "handSize": "6"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/647986_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12076",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 666634,
+      "productName": "LOOP THE LOOP (Alternate Art)",
+      "cardName": "LOOP THE LOOP",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "LOOP THE LOOP Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "Face down cards in your card pool do not count toward progressive difficulty to play this card.<br><br>\n<strong>RESPONSE</strong> [Card Pool]: At the start of the End Phase, add 1 other card from your card pool to your hand.",
+        "attackDamage": "3",
+        "releaseDate": "2025-11-28T00:00:00Z",
+        "number": "GGS01 97/85",
+        "difficulty": "3",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Frenzy, Weapon"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": "",
+        "resource": [
+          "Air",
+          "Water"
+        ],
+        "attackSpeed": "3",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666634_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12278",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 543870,
+      "productName": "Mirko (Alternate Art)",
+      "cardName": "Mirko",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Mirko Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> Commit: After your Fury or Kick attack deals damage, clear 1 attack from your card pool and your next attack gets +1 speed and +1 damage.<br>\r\n<strong>Enhance</strong> [Tenacious] Destroy 1 foundation: Ready this card.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "46/180",
+        "difficulty": "6",
+        "check": "6",
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Pro Hero"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "30",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Death",
+          "Fire"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543870_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10337",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648025,
+      "productName": "Mondo Gecko, Righteous Reptile (Alternate Art)",
+      "cardName": "Mondo Gecko, Righteous Reptile",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Mondo Gecko Righteous Reptile Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>:  This attack gets +X or -X speed. X equals its printed block modifier.<br>\n <br>\n <strong>Response</strong>: After this backup is attacked, your rival commits 1 foundation.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 233/186",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "5",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Good"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648025_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12174",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 553632,
+      "productName": "Monster Zero (Alternate Art)",
+      "cardName": "Monster Zero",
+      "setName": "Challenger Series: Godzilla",
+      "setUrlName": "Challenger Series Godzilla",
+      "productUrlName": "Monster Zero Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> [Your turn] Remove: Your rival removes 1 card from their hand. If they have 8 or more foundations, this attack gets +3 damage.<br>\r\n<em>(<strong>Unique</strong>—While this card is in your stage, if there are 2 or more copies of it in your stage, destroy 1 of them.)</em>",
+        "attackDamage": null,
+        "releaseDate": "2024-06-21T00:00:00Z",
+        "number": "CHA03-KRM 17/22",
+        "difficulty": "3",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Unique"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Evil",
+          "Void"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/553632_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10876",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 642919,
+      "productName": "Pale Rider (Alternate Art)",
+      "cardName": "Pale Rider",
+      "setName": "Challenger Series: Street Fighter 6",
+      "setUrlName": "Challenger Series Street Fighter 6",
+      "productUrlName": "Pale Rider Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong Drive 1: You may clear 1 other attack from your card pool rather than spending 1 momentum to pay the cost of this attack's Echo ability.<br>\n<br>\n<em>(<strong>Echo</strong>—Response Spend 1 momentum: After this attack resolves, you may try to play it as your next form this turn. If you do, flip it after it resolves.)</em>",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 07/18/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-07-18T00:00:00Z",
+        "number": "SF601 26/21",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Echo • Fury • Punch • Slam"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": null,
+        "resource": [
+          "All"
+        ],
+        "attackSpeed": "4",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/642919_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12025",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12025-773",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 643021,
+      "productName": "Phantom Sway (Alternate Art)",
+      "cardName": "Phantom Sway",
+      "setName": "Challenger Series: Street Fighter 6",
+      "setUrlName": "Challenger Series Street Fighter 6",
+      "productUrlName": "Phantom Sway Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "Blitz Drive 1: Commit and freeze 1 rival foundation.<br>\n<br>\n<em>(<strong>EX: 2—Enhance</strong> Spend 1 or more momentum: This attack gets +2 speed for each momentum spent to pay the cost of this ability.)<br>\n<br>\n(Drive 1—Commit 1 foundation or spend 1 momentum.)</em>",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 07/18/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-07-18T00:00:00Z",
+        "number": "SF602 28/21",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "EX: 2 •  Kick"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Rare",
+        "flavorText": null,
+        "resource": [
+          "Water"
+        ],
+        "attackSpeed": "4",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/643021_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12049",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12049-740",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 549379,
+      "productName": "Piercing Thorn Lances (Alternate Art)",
+      "cardName": "Piercing Thorn Lances",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Piercing Thorn Lances Alternate Art",
+      "rarityName": "UC-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>: Add 1 other Low attack from your card pool to your momentum.\r\n<br><strong>Shiozaki Enhance</strong>: Your rival must reveal a high block as an additional cost to block this attack.",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "3/11",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Charge • Ranged"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Uncommon",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Earth",
+          "Life",
+          "Water"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549379_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9716",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648017,
+      "productName": "Pizza Party (Alternate Art)",
+      "cardName": "Pizza Party",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Pizza Party Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: Your rival commits X foundations and you gain X health. X equals the number of Pizza cards in your stage and card pool (max. 3).<br>\n <br>\n \"Sit down. Let me take your order. It could be anything. But it has to be pizza.\"<br>\n <br>\n —Splinter",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 225/186",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Ally • Pizza"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": null,
+        "resource": [
+          "Good"
+        ],
+        "attackSpeed": "5",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648017_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12247",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630680,
+      "productName": "Political Strife (Alternate Art)",
+      "cardName": "Political Strife",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Political Strife Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: This attack gets +1 damage for each backup in your stage.<br>\r\n<br><br>\r\n<em>\"As if I'd die without a fight.\"<br>\r\n<br>—Kiyomi Azumabito</em>",
+        "attackDamage": "3",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "221/189",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "L",
+        "keywords": [
+          "Breaker: 2 •  Ranged"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630680_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11919",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11919-1168",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 630661,
+      "productName": "Porco Galliard // Jaw Titan, Crushing Biter (Alternate Art)",
+      "cardName": "Porco Galliard // Jaw Titan, Crushing Biter",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Porco Galliard Jaw Titan Crushing Biter Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Mill 3: Your Fury or Titan attack gets +1 speed and +1 damage. If you have 4 or more attacks in your card pool, add 1 card from your card pool to your hand, add 1 card from your hand to your card pool face up, and you may transform Porco Galliard.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\nYour Fury and/or Titan attacks get +2 speed and +2 damage.<br>\r\n<br><br>\r\n<strong>Response</strong> Sacrifice 1 foundation: After your rival plays a block, seal it.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "202/189",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Titan •  Warrior"
+        ],
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "24",
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Fire"
+        ],
+        "handSize": "7",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630661_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11857",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11857-1220",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 666635,
+      "productName": "POTEMKIN BUSTER (Alternate Art)",
+      "cardName": "POTEMKIN BUSTER",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "POTEMKIN BUSTER Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "Your rival cannot play response abilities during the Damage Step of this attack.<br><br>\n<strong>RESPONSE</strong>: After this attack is not completely blocked, it gets +6 damage.",
+        "attackDamage": "6",
+        "releaseDate": "2025-11-28T00:00:00Z",
+        "number": "GGS01 99/85",
+        "difficulty": "5",
+        "check": "2",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Tension, Throw"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": "",
+        "resource": [
+          "Earth",
+          "Void"
+        ],
+        "attackSpeed": "2",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666635_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12270",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 532593,
+      "productName": "Prideless Negotiations (Alternate Art)",
+      "cardName": "Prideless Negotiations",
+      "setName": "Challenger Series: Cowboy Bebop and Trigun Stampede",
+      "setUrlName": "Challenger Series Cowboy Bebop and Trigun Stampede",
+      "productUrlName": "Prideless Negotiations Alternate Art",
+      "rarityName": "C-ALT",
+      "customAttributes": {
+        "description": null,
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 01/19/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-01-19T00:00:00Z",
+        "number": "TS01 18/21",
+        "difficulty": "0",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Breaker: 1"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Common",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "All",
+          "Death",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "mid"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/532593_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10387",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648023,
+      "productName": "Ray Fillet, Singing Stingray (Alternate Art)",
+      "cardName": "Ray Fillet, Singing Stingray",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Ray Fillet Singing Stingray Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "Enhance [Your turn]: Your rival adds the top card of their deck to their card pool face down.<br>\n <br>\n <strong>Response</strong>: After this backup is attacked, your rival adds the top card of their deck to their card pool face down.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 231/186",
+        "difficulty": "4",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "4",
+        "flavorText": null,
+        "resource": [
+          "Water"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648023_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12163",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630662,
+      "productName": "Reiner Braun, Marley's Shield // Armored Titan, Finale (Alternate Art)",
+      "cardName": "Reiner Braun, Marley's Shield // Armored Titan, Finale",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Reiner Braun Marleys Shield Armored Titan Finale Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "At the start of the End Phase, if there are 4 or more card types among cards in your stage and you have at least 1 momentum, flip 1 rival foundation and you may transform Reiner Braun, Marley's Shield. <br>\r\n<br><br>\r\n<strong>First Form</strong>: Your non-attack cards get -1 difficulty.<br>\r\n<br><br>\r\n<strong>Enhance</strong> [Your attack]: Your rival flips 1 foundation.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\nYour attacks get +1 damage for each card type among cards in your stage. <br>\r\n<br><br>\r\nRival attacks get -1 damage.<br>\r\n<br><br>\r\n<strong>Response</strong> Commit 1 card in your stage: After an attack is played, commit or flip 1 rival foundation.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "203/189",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Titan •  Warrior"
+        ],
+        "blockModifier": null,
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "30",
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Order"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630662_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11825",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11825-1218",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 589132,
+      "productName": "Reiner Braun, Warrior // Reiner, Armored Titan Advancing (Alternate Art)",
+      "cardName": "Reiner Braun, Warrior // Reiner, Armored Titan Advancing",
+      "setName": "Attack On Titan: Origins of Power",
+      "setUrlName": "Attack On Titan Origins of Power",
+      "productUrlName": "Reiner Braun Warrior Reiner Armored Titan Advancing Alternate Art",
+      "rarityName": "CH-R",
+      "customAttributes": {
+        "description": "If you would lose the game due to your health being reduced below 1, instead transform Reiner Braun, Warrior and return to maximum health.<br>\n<br><strong>Enhance</strong> Mill 4: Your attack gets +1 damage for each different card type among cards milled this way. If you have cycled this game, your attack gets +1 speed for each card type among cards milled this way.<br>\n<br><br>\"Your rival's first attack each turn gets -5 damage.<br>\n<br><strong>Enhance</strong> Remove 3 cards from your discard pile: Your attack gets +1 speed and +1 damage for each different card type in your stage. If you have cycled this game, you may add 1 card from your momentum to your hand.\"",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 11/08/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-11-08T00:00:00Z",
+        "number": "13a/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Warrior"
+        ],
+        "rarityDbName": "Character Rare",
+        "vitality": "17",
+        "flavorText": "",
+        "resource": [
+          "Chaos",
+          "Fire"
+        ],
+        "handSize": "6"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/589132_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11322",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 681170,
+      "productName": "Rodan, Fire Rodan (Alternate Art)",
+      "cardName": "Rodan, Fire Rodan",
+      "setName": "Godzilla: Reign of Kaiju",
+      "setUrlName": "Godzilla Reign of Kaiju",
+      "productUrlName": "Rodan Fire Rodan Alternate Art",
+      "rarityName": "CH-C-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>: This attack gets +3 or -2 damage. Only playable if this attack's speed is greater than its printed speed.<br><strong>Enhance</strong> Spend 1 momentum: Seal 1 non-character card in your rival's card pool or stage.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 3/13/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-03-13T00:00:00Z",
+        "number": "GDZ01 201/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Giant • Monster"
+        ],
+        "rarityDbName": "Character Common Alternate Art",
+        "vitality": "32",
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Fire",
+          "Void"
+        ],
+        "handSize": "6"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/681170_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12418",
+      "cardDbType": "Character",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12418-14232",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 666624,
+      "productName": "ROMAN CANCEL (Alternate Art)",
+      "cardName": "ROMAN CANCEL",
+      "setName": "GUILTY GEAR -STRIVE-",
+      "setUrlName": "GUILTY GEAR STRIVE",
+      "productUrlName": "ROMAN CANCEL Alternate Art",
+      "rarityName": "P",
+      "customAttributes": {
+        "number": "GGS01 2/1",
+        "description": "Remove this card at the beginning of your turn.<br><br>\nYou may play only 1 ability named \"<strong>RED</strong>\"  each turn. The same is true of abilities named \"<strong>PURPLE</strong>\", \"<strong>YELLOW</strong>\", and \"<strong>BLUE</strong>.\"<br><br><br>\n<strong>RED — ENHANCE</strong> Remove: Change the zone of your attack.<br><br><br>\n<strong>PURPLE — RESPONSE</strong> Remove, spend 1 momentum: After your blocked attack resolves, clear it from your card pool and draw 1 card. <br><br><br>\n<strong>YELLOW — RESPONSE</strong> Remove, Spend 1 momentum: Before you take damage from an unblocked attack, change that attack's damage to 3.<br>\n<strong>BLUE — FORM</strong> Remove: Freeze 1 rival foundation.",
+        "flavorText": "",
+        "rarityDbName": "Promo",
+        "releaseDate": "2025-11-28T00:00:00Z"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/666624_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12255",
+      "cardDbType": "Token",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 648009,
+      "productName": "Scumbug, Inscrutable Insect (Alternate Art)",
+      "cardName": "Scumbug, Inscrutable Insect",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Scumbug Inscrutable Insect Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong>:  Look at the top card of a player's deck. You may have that player mill 1.<br>\n <br>\n <strong>Response</strong>: After this backup is attacked, draw 1 card.<br>\n <br>\n <em>(Elusive—This backup cannot be attacked by a rival's first attack each turn.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 217/186",
+        "difficulty": "4",
+        "check": "5",
+        "cardType": [
+          "Backup"
+        ],
+        "keywords": [
+          "Elusive • Unique • Ally"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": "6",
+        "flavorText": null,
+        "resource": [
+          "All"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/648009_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12166",
+      "cardDbType": "Backup",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 642924,
+      "productName": "Shin Hashogeki (Alternate Art)",
+      "cardName": "Shin Hashogeki",
+      "setName": "Challenger Series: Street Fighter 6",
+      "setUrlName": "Challenger Series Street Fighter 6",
+      "productUrlName": "Shin Hashogeki Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After you play this attack's EX ability, add the top card of your deck to your momentum.<br>\n<em>(<strong>EX: 2—Enhance</strong> Spend 1 or more momentum: This attack gets +2 speed for each momentum spent to pay the cost of this ability.)</em>",
+        "attackDamage": "4",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 07/18/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-07-18T00:00:00Z",
+        "number": "SF601 28/21",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Powerful: 3 • Charge • Fury • Slam"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "flavorText": null,
+        "resource": [
+          "Fire"
+        ],
+        "attackSpeed": "6",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/642924_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12036",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12036-768",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 647999,
+      "productName": "Splinter, Caring Father (Alternate Art)",
+      "cardName": "Splinter, Caring Father",
+      "setName": "Teenage Mutant Ninja Turtles",
+      "setUrlName": "Teenage Mutant Ninja Turtles",
+      "productUrlName": "Splinter Caring Father Alternate Art",
+      "rarityName": "CH-C-ALT",
+      "customAttributes": {
+        "description": "First Enhance [Once per turn, Tenacious]: Change this attack's speed and damage to the printed speed and damage of 1 other attack in your card pool.<br>\n <br>\n Enhance [Rival's turn] <COMMIT>: Ready 2 foundations.<br>\n <br>\n <em>(<strong>Tenacious</strong>—This ability is playable while committed.)</em>",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/15/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-08-15T00:00:00Z",
+        "number": "TMNT01 207/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Champion • Mutant"
+        ],
+        "rarityDbName": "Character Common Alternate Art",
+        "vitality": "22",
+        "flavorText": null,
+        "resource": [
+          "All",
+          "Water"
+        ],
+        "handSize": "7"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/647999_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12105",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 542409,
+      "productName": "Storm of Arrows (Alternate Art)",
+      "cardName": "Storm of Arrows",
+      "setName": "Challenger Series: Vox Machina and Mighty Nein",
+      "setUrlName": "Challenger Series Vox Machina and Mighty Nein",
+      "productUrlName": "Storm of Arrows Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "You may spend Ranged Weapon attacks from your card pool as though they were momentum to pay for this attack’s Echo ability.",
+        "attackDamage": "5",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 03/21/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-03-21T00:00:00Z",
+        "number": "CR-VM 10/21",
+        "difficulty": "5",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "High",
+        "keywords": [
+          "Echo • Ranged • Spell • Weapon"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air",
+          "Earth",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "mid"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/542409_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10601",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630667,
+      "productName": "The Ackermans Team Up (Alternate Art)",
+      "cardName": "The Ackermans Team Up",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "The Ackermans Team Up Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: This attack gets +2 damage for each card cleared from your card pool this turn.<br>\r\n<br><br>\r\n<em>\"I'll do it. Everyone cover me.\"<br>\r\n<br>—Mikasa Ackerman<br>\r\n<br><br>\r\n\"Understood . . . Mikasa.\"<br>\r\n<br>—Levi Ackerman</em>",
+        "attackDamage": "3",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "208/189",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "EX: 2 •  Weapon"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Air"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630667_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11938",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11938-1202",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 630676,
+      "productName": "The Founding Titan's Power // Ymir Fritz (Alternate Art)",
+      "cardName": "The Founding Titan's Power // Ymir Fritz",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "The Founding Titans Power Ymir Fritz Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: Draw 1 card, add the top card of your deck to your momentum, and gain 3 health.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\n<strong>First Form</strong> Remove, spend 3 momentum: Take an additional turn after this one.",
+        "attackDamage": "10",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "217/189",
+        "difficulty": "8",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Shift •  Stun: 3 •  Titan •  Unique"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Fire"
+        ],
+        "handSize": null,
+        "attackSpeed": "0",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630676_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11816",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11816-1180",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 630673,
+      "productName": "The Rumbling (Alternate Art)",
+      "cardName": "The Rumbling",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "The Rumbling Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: Your rival discards 3 cards. They may sacrifice all their foundations to cancel this ability.",
+        "attackDamage": "10",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "214/189",
+        "difficulty": "11",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Stun: 3 •  Titan"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death"
+        ],
+        "handSize": null,
+        "attackSpeed": "6",
+        "blockZone": "L"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630673_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11957",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11957-1188",
+        "pHashDistance": 2
+      }
+    },
+    {
+      "productId": 630684,
+      "productName": "Thunder Spear Barrage (Alternate Art)",
+      "cardName": "Thunder Spear Barrage",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "Thunder Spear Barrage Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Blitz</strong>: This attack gets -X speed and +X damage. X cannot be greater than 4.",
+        "attackDamage": "2",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "225/189",
+        "difficulty": "3",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "H",
+        "keywords": [
+          "Echo •  Ranged •  Weapon"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Order"
+        ],
+        "handSize": null,
+        "attackSpeed": "5",
+        "blockZone": "H"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630684_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12006",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/12006-1158",
+        "pHashDistance": 0
+      }
+    },
+    {
+      "productId": 553633,
+      "productName": "Tri Gravity Beam (Alternate Art)",
+      "cardName": "Tri Gravity Beam",
+      "setName": "Challenger Series: Godzilla",
+      "setUrlName": "Challenger Series Godzilla",
+      "productUrlName": "Tri Gravity Beam Alternate Art",
+      "rarityName": "UR-ALT",
+      "customAttributes": {
+        "description": "<strong>Enhance</strong> Destroy 1 foundation: If you have 2 other attacks in your card pool, look at your rival's hand and remove 1 card from it.<br>\r\n<strong>Enhance</strong>: If at least 1 of your cards has been removed this turn, this attack gets +2 damage.",
+        "attackDamage": "5",
+        "releaseDate": "2024-06-21T00:00:00Z",
+        "number": "CHA03-KRM 12/22",
+        "difficulty": "4",
+        "check": "3",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Deadlock Stun: 3 • Ranged"
+        ],
+        "blockModifier": "1",
+        "rarityDbName": "Alternate Art Ultra Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Evil",
+          "Void"
+        ],
+        "handSize": null,
+        "attackSpeed": "4",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/553633_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "10871",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 597641,
+      "productName": "U.S.S. Cerritos, NCC-75567 (Alternate Art) (STK01 5/22)",
+      "cardName": "U.S.S. Cerritos, NCC-75567",
+      "setName": "Challenger Series: Star Trek: Lower Decks",
+      "setUrlName": "Challenger Series Star Trek Lower Decks",
+      "productUrlName": "USS Cerritos NCC 75567 Alternate Art STK01 5 22",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong> [Once per turn]: Reveal the top 3 cards of your deck. Add 1 of them to your hand, 1 to the bottom of your deck, and 1 to the top of your deck.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 12/6/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-12-06T00:00:00Z",
+        "number": "STK01 5/22",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Asset"
+        ],
+        "keywords": [
+          "Unique,Ship"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "flavorText": "\"The Cerritos is a handsome lady.\"<br>\n<br>\n—Brad Boimler",
+        "resource": [
+          "Chaos",
+          "Life",
+          "Order",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/597641_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11512",
+      "cardDbType": "Asset",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 597671,
+      "productName": "U.S.S. Cerritos, NCC-75567 (Alternate Art) (STK02 5/22)",
+      "cardName": "U.S.S. Cerritos, NCC-75567",
+      "setName": "Challenger Series: Star Trek: Lower Decks",
+      "setUrlName": "Challenger Series Star Trek Lower Decks",
+      "productUrlName": "USS Cerritos NCC 75567 Alternate Art STK02 5 22",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Form<strong> [Once per turn]: Reveal the top 3 cards of your deck. Add 1 of them to your hand, 1 to the bottom of your deck, and 1 to the top of your deck.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 12/6/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-12-06T00:00:00Z",
+        "number": "STK02 5/22",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Asset"
+        ],
+        "keywords": [
+          "Unique,Ship"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "flavorText": "\"The Cerritos is a handsome lady.\"<br>\n<br>\n—Brad Boimler",
+        "resource": [
+          "Chaos",
+          "Life",
+          "Order",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/597671_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11512",
+      "cardDbType": "Asset",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 597701,
+      "productName": "U.S.S. Cerritos, NCC-75567 (Alternate Art) (STK03 5/22)",
+      "cardName": "U.S.S. Cerritos, NCC-75567",
+      "setName": "Challenger Series: Star Trek: Lower Decks",
+      "setUrlName": "Challenger Series Star Trek Lower Decks",
+      "productUrlName": "USS Cerritos NCC 75567 Alternate Art STK03 5 22",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong> [Once per turn]: Reveal the top 3 cards of your deck. Add 1 of them to your hand, 1 to the bottom of your deck, and 1 to the top of your deck.",
+        "attackDamage": null,
+        "releaseDate": "2024-12-06T00:00:00Z",
+        "number": "STK03 5/22",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Asset"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Unique,Ship"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": "\"The Cerritos is a handsome lady.\"<br>\n<br>\n—Brad Boimler",
+        "resource": [
+          "Chaos",
+          "Life",
+          "Order",
+          "Void"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/597701_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11512",
+      "cardDbType": "Asset",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 597731,
+      "productName": "U.S.S. Cerritos, NCC-75567 (Alternate Art) (STK04 5/22)",
+      "cardName": "U.S.S. Cerritos, NCC-75567",
+      "setName": "Challenger Series: Star Trek: Lower Decks",
+      "setUrlName": "Challenger Series Star Trek Lower Decks",
+      "productUrlName": "USS Cerritos NCC 75567 Alternate Art STK04 5 22",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Form</strong> [Once per turn]: Reveal the top 3 cards of your deck. Add 1 of them to your hand, 1 to the bottom of your deck, and 1 to the top of your deck.",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 12/6/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-12-06T00:00:00Z",
+        "number": "STK04 5/22",
+        "difficulty": "6",
+        "check": "4",
+        "cardType": [
+          "Asset"
+        ],
+        "keywords": [
+          "Unique,Ship"
+        ],
+        "blockModifier": "3",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "flavorText": "\"The Cerritos is a handsome lady.\" —Brad Boimler",
+        "resource": [
+          "Chaos",
+          "Life",
+          "Order",
+          "Void"
+        ],
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/597731_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11512",
+      "cardDbType": "Asset",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 543867,
+      "productName": "Uwabami (Alternate Art)",
+      "cardName": "Uwabami",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Uwabami Alternate Art",
+      "rarityName": "CH-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: At the start of your rival's End Phase, add 1 card from your card pool to your hand.<br>\r\n<strong>Enhance</strong> Remove 3 cards from your discard pile: The next printed 3 damage attack you try to play gets -1 difficulty and +1 damage.<br>\r\n<strong>Enhance</strong> [Once per turn, your turn]: Add 1 printed 3 damage attack from your discard pile to your hand.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "8/11",
+        "difficulty": "6",
+        "check": "6",
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Pro Hero"
+        ],
+        "blockModifier": "0",
+        "rarityDbName": "Character Alternate Art Rare",
+        "vitality": "25",
+        "flavorText": null,
+        "resource": [
+          "Chaos",
+          "Earth",
+          "Life"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543867_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9531",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 630674,
+      "productName": "War Hammer Titan Attacks! // The War Hammer Titan (Alternate Art)",
+      "cardName": "War Hammer Titan Attacks! // The War Hammer Titan",
+      "setName": "Attack on Titan: Apocalypse",
+      "setUrlName": "Attack on Titan Apocalypse",
+      "productUrlName": "War Hammer Titan Attacks The War Hammer Titan Alternate Art",
+      "rarityName": "SR-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong> Sacrifice 1 foundation: After this attack resolves, you may build this card transformed.<br>\r\n<br><br>\r\n//<br>\r\n<br><br>\r\n<strong>Enhance</strong> Lose 1 stamina: This attack gets +1 damage. If you have sacrificed 1 or more cards this turn, this attack gets +1 speed.<br>\r\n<br><br>\r\n<strong>First Form</strong> Sacrifice: If you have fewer foundations than your rival, build the top 2 cards of your deck face down.",
+        "attackDamage": "7",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 5/16/2025. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2025-05-16T00:00:00Z",
+        "number": "215/189",
+        "difficulty": "7",
+        "check": "4",
+        "cardType": [
+          "Attack"
+        ],
+        "attackZone": "M",
+        "keywords": [
+          "Shift •  Stun: 1 •  Titan"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Secret Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death"
+        ],
+        "handSize": null,
+        "attackSpeed": "6",
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630674_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11931",
+      "cardDbType": "Attack",
+      "closestExistingArtwork": {
+        "artworkId": "repo/11931-1186",
+        "pHashDistance": 6
+      }
+    },
+    {
+      "productId": 549386,
+      "productName": "Wild Wild Pussycats (Alternate Art)",
+      "cardName": "Wild Wild Pussycats",
+      "setName": "UniVersus: My Hero Academia: Girl Power",
+      "setUrlName": "UniVersus My Hero Academia Girl Power",
+      "productUrlName": "Wild Wild Pussycats Alternate Art",
+      "rarityName": "R-ALT",
+      "customAttributes": {
+        "description": "<strong>Response</strong>: After you block an attack with this card, that attack loses Echo.\r\n<br><strong>Form</strong> Flip: Reveal the top 3 cards of your deck. Add 1 foundation revealed this way to your hand and discard the rest.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 05/24/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-05-17T00:00:00Z",
+        "number": "11/11",
+        "difficulty": "2",
+        "check": "5",
+        "cardType": [
+          "Foundation"
+        ],
+        "attackZone": null,
+        "keywords": [
+          "Ally"
+        ],
+        "blockModifier": "2",
+        "rarityDbName": "Alternate Art Rare",
+        "vitality": null,
+        "flavorText": null,
+        "resource": [
+          "Death",
+          "Fire",
+          "Life"
+        ],
+        "handSize": null,
+        "attackSpeed": null,
+        "blockZone": "M"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/549386_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "9841",
+      "cardDbType": "Foundation",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 709936,
+      "productName": "Yoshimitsu (Alternate Art)",
+      "cardName": "Yoshimitsu",
+      "setName": "TEKKEN 8",
+      "setUrlName": "TEKKEN 8",
+      "productUrlName": "Yoshimitsu Alternate Art",
+      "rarityName": "CH-R-ALT",
+      "customAttributes": {
+        "description": "<strong>First Form</strong>: Discard 1 card. Search your deck for 1 assist with difficulty equal to or less than the discarded card's difficulty, reveal it, and add it to your hand.<br>\r\n<strong>Response</strong> [Once per turn]: After you play an ability on an asset, this character gains that ability this turn.",
+        "attackDamage": null,
+        "detailNote": "This product is a Presale item with an estimated shipping date of 08/14/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2026-08-14T00:00:00Z",
+        "number": "TK802 199/185",
+        "difficulty": null,
+        "check": null,
+        "cardType": [
+          "Character"
+        ],
+        "attackZone": null,
+        "keywords": null,
+        "blockModifier": null,
+        "rarityDbName": "Character Rare Alternate Art",
+        "vitality": "33",
+        "flavorText": null,
+        "resource": [
+          "All",
+          "Good",
+          "Void"
+        ],
+        "handSize": "6",
+        "attackSpeed": null,
+        "blockZone": null
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709936_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "12699",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    },
+    {
+      "productId": 589158,
+      "productName": "Zeke Yeager // Zeke, Beast Titan (Alternate Art)",
+      "cardName": "Zeke Yeager // Zeke, Beast Titan",
+      "setName": "Attack On Titan: Origins of Power",
+      "setUrlName": "Attack On Titan Origins of Power",
+      "productUrlName": "Zeke Yeager Zeke Beast Titan Alternate Art",
+      "rarityName": "CH-R",
+      "customAttributes": {
+        "description": "At the start of your first turn of the game, search your deck for 1 non-Unique backup, reveal it, and add it to your hand.<br>\n<br><strong>Form</strong> [Commit Symbol]: Draw 1 card for each backup in your stage. If you draw 4 or more cards this way, transform Zeke Yeager.<br>\n<br><strong>Enhance</strong> Discard 1 attack: Add 1 backup from your discard pile to your hand.<br>\n<br><br>\"Your Ranged attacks get +2 speed and +2 damage.<br>\n<br><strong>Enhance</strong> Discard 1 backup: Add 1 Ranged attack from your discard pile to your hand.\"",
+        "detailNote": "This product is a Presale item with an estimated shipping date of 11/08/2024. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated.",
+        "releaseDate": "2024-11-08T00:00:00Z",
+        "number": "15a/186",
+        "cardType": [
+          "Character"
+        ],
+        "keywords": [
+          "Warrior"
+        ],
+        "rarityDbName": "Character Rare",
+        "vitality": "34",
+        "flavorText": "",
+        "resource": [
+          "Fire",
+          "Life"
+        ],
+        "handSize": "5"
+      },
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/589158_in_1000x1000.jpg",
+      "imageDownloaded": true,
+      "imageDownloadError": null,
+      "uvsUltraCardId": "11338",
+      "cardDbType": "Character",
+      "closestExistingArtwork": null
+    }
+  ]
+}

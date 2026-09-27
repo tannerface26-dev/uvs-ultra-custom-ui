@@ -118,8 +118,10 @@ The extension should:
 2. Look up that exact ID in the reviewed runtime catalog.
 3. Require the normalized displayed name to match the catalog card name.
 4. Offer only the variants nested under that exact catalog card entry.
-5. Store the exact variant qualifier, not a name-derived or set-only value.
-6. Emit the selected allowlisted qualifier in Forum Code.
+5. Store the exact source-neutral variant identity, not a name-derived or
+   set-only value.
+6. Emit the selected allowlisted qualifier in Forum Code; repository artwork
+   uses `repo`, never a third-party discovery-source namespace.
 7. Fall back to the rendered ordinary image identity when no reviewed catalog
    entry exists.
 

@@ -12,10 +12,10 @@ from urllib.parse import quote
 
 
 EXPECTED_COUNTS = {
-    "canonicalCards": 310,
-    "reviewedAltSources": 430,
-    "uniqueAlternateArtworks": 371,
-    "mergedDuplicateSources": 59,
+    "canonicalCards": 513,
+    "reviewedAltSources": 798,
+    "uniqueAlternateArtworks": 640,
+    "mergedDuplicateSources": 158,
 }
 PREVIEW_SIZE = (358, 500)
 MICRO_SIZE = (20, 20)
@@ -51,16 +51,29 @@ def prepare_image(source: Path, destination: Path, size: tuple[int, int]) -> Non
         fitted.save(destination, "JPEG", quality=90, optimize=True)
 
 
+def repository_qualifier(qualifier: str) -> str:
+    if not SAFE_QUALIFIER.fullmatch(qualifier):
+        raise ValueError(f"invalid repository qualifier: {qualifier!r}")
+    _namespace, token = qualifier.split("/", maxsplit=1)
+    return f"repo/{token}"
+
+
+def public_provenance_qualifier(source: dict[str, Any]) -> str:
+    qualifier = str(source.get("qualifier") or "")
+    if not SAFE_QUALIFIER.fullmatch(qualifier):
+        raise ValueError(f"invalid provenance qualifier: {qualifier!r}")
+    if source.get("source") == "ultra-hosted":
+        return qualifier
+    return repository_qualifier(qualifier)
+
+
 def forum_qualifier(alternate: dict[str, Any]) -> str:
     for source in alternate.get("provenance") or []:
         if source.get("source") == "ultra-hosted":
             source_id = str(source.get("sourceId") or "")
             if SAFE_QUALIFIER.fullmatch(source_id):
                 return source_id
-    qualifier = str(alternate.get("artworkId") or "")
-    if not SAFE_QUALIFIER.fullmatch(qualifier):
-        raise ValueError(f"invalid Forum Code qualifier: {qualifier!r}")
-    return qualifier
+    return repository_qualifier(str(alternate.get("artworkId") or ""))
 
 
 def main() -> None:
@@ -88,6 +101,11 @@ def main() -> None:
         for card in runtime_manifest["cards"]
         if card.get("transformBackOriginal")
     }
+    original_backs.update({
+        str(card["uvsUltraCardId"]): card["transformBackOriginal"]
+        for card in catalog["cards"]
+        if card.get("transformBackOriginal")
+    })
     repository_url = (
         "https://raw.githubusercontent.com/tannerface26-dev/uvs-tts-assets/"
         f"{args.revision}/"
@@ -140,7 +158,7 @@ def main() -> None:
         variants: list[dict[str, Any]] = [original]
 
         for index, alternate in enumerate(card["alternates"], start=1):
-            artwork_id = alternate["artworkId"]
+            artwork_id = repository_qualifier(str(alternate["artworkId"]))
             if artwork_id in artwork_ids:
                 raise ValueError(f"duplicate artworkId: {artwork_id}")
             artwork_ids.add(artwork_id)
@@ -168,7 +186,7 @@ def main() -> None:
                 "artworkId": artwork_id,
                 "forumQualifier": forum_qualifier(alternate),
                 "legacyQualifiers": sorted({
-                    item["qualifier"]
+                    public_provenance_qualifier(item)
                     for item in provenance
                     if item.get("qualifier")
                 }),

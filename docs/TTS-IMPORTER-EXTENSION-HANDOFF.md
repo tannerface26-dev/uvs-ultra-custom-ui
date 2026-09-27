@@ -110,6 +110,10 @@ Never construct a URL by interpolating Forum Code. Resolve the complete token
 and normalized card name through importer-owned data generated from the runtime
 catalog. Unknown tokens must fail.
 
+The `repo` namespace also covers repository-hosted artwork discovered through
+third-party catalogs. Discovery provenance remains build-time metadata and must
+not become a public Forum Code namespace.
+
 Use the full-resolution `sourcePath` image for TTS card faces. `previewPath` and
 `microPath` are browser UI derivatives and should not be imported into TTS.
 

@@ -74,10 +74,24 @@
             typeof selectedKey === "string" &&
             selectedKey !== "original"
         ) {
+            const selectedQualifier = selectedKey.match(
+                /^[a-z0-9_-]+\/([a-z0-9_-]+)$/i
+            );
+            const repositoryAlias = selectedQualifier
+                ? `repo/${selectedQualifier[1]}`
+                : null;
             const legacyMatches = variants.filter(
                 (variant) =>
                     `${variant.setId}/${variant.cardNumber}` === selectedKey ||
                     variant.legacyQualifiers?.includes(selectedKey) ||
+                    (
+                        repositoryAlias &&
+                        (
+                            variant.artworkId === repositoryAlias ||
+                            variant.forumQualifier === repositoryAlias ||
+                            variant.legacyQualifiers?.includes(repositoryAlias)
+                        )
+                    ) ||
                     variant.setId === selectedKey
             );
 

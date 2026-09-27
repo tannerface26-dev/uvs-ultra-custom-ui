@@ -60,10 +60,12 @@ The qualifier grammar is:
 ^[A-Za-z0-9_-]+/[A-Za-z0-9_-]+$
 ```
 
-The namespace is data-driven. Current generated data may use namespaces such as
-`repo`, `tcgplayer`, or an Ultra-hosted set ID. Consumers must resolve the complete
-qualifier through importer-owned allowlisted data. They must not interpolate
-untrusted Forum Code into a network URL.
+Ordinary and Ultra-hosted printings retain their validated Ultra set ID. Alternate
+art stored in the project repository uses the source-neutral `repo` namespace,
+including artwork first discovered through a third-party catalog. Build-time
+provenance is not part of public Forum Code identity. Consumers must resolve the
+complete qualifier through importer-owned allowlisted data. They must not
+interpolate untrusted Forum Code into a network URL.
 
 TTS/importer behavior and compatibility parsing are described in
 `TTS-IMPORTER-EXTENSION-HANDOFF.md`.
@@ -98,9 +100,12 @@ selection scope is:
 The stored value is the selected variant's exact `artworkId`.
 
 Legacy values are accepted only when they resolve to exactly one allowlisted
-variant by exact set/card identity, known legacy qualifier, or legacy set ID. An
-ambiguous or unknown legacy value is not guessed; selection returns to the first
-variant, which is the explicit Original record.
+variant by exact set/card identity, known public legacy qualifier, legacy set ID,
+or a validated qualifier token that has one source-neutral `repo` match. This
+last path migrates previously stored source-specific selections without packaging
+or emitting the old namespace. An ambiguous or unknown legacy value is not
+guessed; selection returns to the first variant, which is the explicit Original
+record.
 
 Page-provided values and local storage cannot provide arbitrary image URLs. A
 selection must match an existing packaged variant before it is persisted or used.
@@ -161,7 +166,9 @@ Do not intentionally change these without explicit approval:
 - Existing stored `artworkId` values continue to resolve.
 - Unique legacy selections continue to migrate.
 - Ambiguous legacy selections fail closed to Original.
-- Existing Forum Code qualifiers remain importer-resolvable.
+- Existing Ultra-hosted and `repo` Forum Code qualifiers remain importer-resolvable.
+- Superseded source-specific alternate qualifiers migrate locally when unique but
+  are not emitted as public identities.
 - Ordinary card identities preserve exact filename stems and leading zeroes.
 - Unknown or mismatched qualified identities never fall back silently to another
   printing.

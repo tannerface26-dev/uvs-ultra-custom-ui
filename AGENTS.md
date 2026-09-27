@@ -74,6 +74,7 @@ Read the relevant document before changing the associated behavior:
 |---|---|
 | Card identity, Forum Code, alternate-art selection, transforms, or catalog generation | `docs/CARD-IDENTITY-AND-ALTERNATE-ART.md` and `docs/EXTENSION-ALT-ART-MATCHING-RULES.md` |
 | TTS/importer compatibility | `docs/TTS-IMPORTER-EXTENSION-HANDOFF.md` |
+| Active 2026-09-25 catalog/TK802 implementation status | `docs/CODEX-EXTENSION-HANDOFF.md` |
 | Chrome Web Store packaging or release | `docs/CHROME-WEB-STORE-RELEASE.md` |
 | Privacy, storage, or network behavior | `docs/PRIVACY.md`, `docs/SUPPORT.md`, and `docs/THIRD_PARTY_NOTICES.md` |
 | Any runtime implementation change | Relevant source files plus `docs/lessons.md` |

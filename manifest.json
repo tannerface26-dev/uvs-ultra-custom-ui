@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "+Ultra Online",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Unofficial UVS Ultra companion with improved search, themes, deck tools, and validated alternate card art.",
   "icons": {
     "16": "assets/icons/icon-16.png",
