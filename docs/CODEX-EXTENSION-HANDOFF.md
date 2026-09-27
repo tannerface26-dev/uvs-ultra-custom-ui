@@ -26,7 +26,8 @@ The user has completed two updater review passes:
 - 24 TK802 character variants: all 24 accepted as `alt`.
 
 The resulting extension catalog includes 270 newly accepted selections relative
-to the prior checked-in catalog. Tabletop Simulator validation is still pending.
+to the prior checked-in catalog. The user validated TTS patch `3.15.1` with the
+exact extension `0.4.1` layout on 2026-09-26.
 
 ## Current generated state
 
@@ -152,7 +153,7 @@ Current package:
 
 ```text
 release/plus-ultra-online-0.4.1.zip
-SHA-256: 181ed8e2bc3c6947ea89d4c98b673d202b7953557652b644d1a9701e50aa8b69
+SHA-256: b5d119d6781be29df64fd9bfa07ac7b93f2d1a537c2aba9b8f1af6eb410f9dea
 ```
 
 The ZIP contains exactly the 12 files allowlisted by `build-release.ps1`, and
@@ -160,31 +161,27 @@ its `remote-card-art.js` matched the workspace source when verified.
 
 ## Verification completed
 
-- All 24 TK802 qualifiers exist in the reviewed JSON catalog.
-- All 24 exist under the correct canonical IDs in `remote-card-art.js`.
-- All 24 exist in the TTS qualified CardDB catalog.
+- All 24 TK802 selections exist in the reviewed JSON catalog.
+- All 24 exist under the correct canonical IDs and source-neutral `repo`
+  qualifiers in `remote-card-art.js`.
+- All 24 source-neutral identities exist in the TTS qualified CardDB catalog.
 - All 48 TK802 preview/micro raw GitHub URLs returned `200 image/jpeg` after
   the asset push.
 - Bundled CardDB Lua, object Lua, and object-data `LuaScript` are identical.
 - Python generator compilation passed.
 - `git diff --check` passed apart from line-ending conversion warnings.
+- All 678 packaged `repo` qualifiers and four packaged `bl01` qualifiers resolve
+  through TTS CardDB, and all 19 transform variants retain paired backs.
+- `TS_Save_24.json` matches the bundled CardDB and Global scripts.
 - Node.js is not installed in this environment, so `node --check` was not
   available.
 
-## Remaining work
+## Completion
 
-1. Reload the unpacked extension or the exact `0.4.1` ZIP and smoke-test the
-   selector, hover preview, persisted selection, and Forum Code for TK802.
-2. Confirm each selected TK802 treatment emits its exact
-   `tcgplayer/{uvsUltraCardId}-{productId}` qualifier.
-3. In TTS, use bundled Save & Play and validate ordinary, multi-alternate, and
-   transform imports. The TTS process was open, so `TS_Save_24.json` was not
-   rewritten on disk.
-4. After TTS validation and after TTS is closed, synchronize Save 24 and its
-   `Table Features` notebook body. The `uvs_tts_3.15.1` bundled notebook text
-   already says 270 additional selections, including 24 TK802 variants.
-5. Do not create the `uvs_tts_3.15.1` backup until the user confirms the feature
-   works and explicitly approves the backup.
+- Extension `0.4.1` and TTS `3.15.1` compatibility are validated.
+- Save 24 is synchronized to the source-neutral `repo` layout.
+- The user approved and the TTS workspace created the full
+  `mods_backup/uvs_tts/uvs_tts_3.15.1` snapshot after validation.
 
 Do not commit or push the extension workspace without reviewing its full dirty
 worktree. The asset repository commit above is already pushed; the extension
